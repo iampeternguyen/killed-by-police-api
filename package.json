@@ -1,0 +1,18 @@
+{
+  "name": "killedbypolice-api",
+  "version": "1.0.0",
+  "description": "an api for data pulled from killedbypolice.net",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "killedbypolice"
+  ],
+  "author": "Peter Nguyen",
+  "license": "MIT",
+  "devDependencies": {
+    "expect": "^23.6.0",
+    "mocha": "^5.2.0"
+  }
+}
