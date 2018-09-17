@@ -5,7 +5,7 @@ const sampleData = fs.readFileSync(__dirname + '/sampleData.txt', 'utf8');
 var peopleArray = [];
 describe('Cleanin up data', () => {
 	beforeEach(done => {
-		fs.readFile(__dirname + '/source_data/2014.html', 'utf8', function(err, data) {
+		fs.readFile(__dirname + '/source_data/2013.html', 'utf8', function(err, data) {
 			peopleArray = parseData.getPeopleArray(data);
 			done();
 		});

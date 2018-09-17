@@ -108,42 +108,11 @@ const processedObject = e => {
 	let age;
 	let photo;
 
-	if (e[4].includes('href')) {
-		photo = /href="(.*?)"/.exec(e[4])[1];
-	}
+	let nameAgePhotoObject = getNameAgePhotoObject(e[4]);
 
-	match = e[4].replace(/<(?:.|\n)*?>/gm, '').split(/\,(?=[^,]*$)/);
-
-	if (match.length === 2 && match[1].match(/\d/gi)) {
-		name = match[0].trim();
-		age = match[1].trim();
-	} else {
-		match = e[4].replace(/<(?:.|\n)*?>/gm, '').split(/\.(?=[^.]*$)/);
-		if (match.length === 2) {
-			if (match[1].match(/\d/)) {
-				name = match[0].trim();
-				age = match[1].trim();
-			} else {
-				name = match.join('');
-			}
-		} else {
-			if (match.length === 1) {
-				if (!match[0].match(/\d/)) {
-					name = match[0].trim();
-					age = null;
-				} else if (match[0].match(/^\d/)) {
-					name = null;
-					age = match[0].trim();
-				} else {
-					match = /(\D+)(\d+)/gi.exec(match[0]);
-					if (match.length == 3) {
-						name = match[1].trim();
-						age = match[2].trim();
-					}
-				}
-			}
-		}
-	}
+	name = nameAgePhotoObject.name;
+	age = nameAgePhotoObject.age;
+	photo = nameAgePhotoObject.photo;
 
 	// clean up age
 	if (age) {
@@ -189,6 +158,85 @@ const processedObject = e => {
 		killedBy,
 		kbpLink,
 		newsLink,
+	};
+};
+
+const getNameAgePhotoObject = e => {
+	let regexHtmlTags = /<(?:.|\n)*?>/gm;
+	let regexLastComma = /\,(?=[^,]*$)/;
+	let regexLastPeriod = /\.(?=[^.]*$)/;
+	let nameAgeField = e.replace(regexHtmlTags, '');
+
+	let name, age, photo;
+
+	let hasCommaInName = nameAgeField.match(/,/);
+	let hasPeriodInName = nameAgeField.match(/\./);
+	let hasAgeInName = nameAgeField.match(/\d/);
+
+	if (hasCommaInName && hasAgeInName) {
+		match = nameAgeField.split(regexLastComma);
+		// special case where entries have comma at end of nameagefield
+		// let stillHasCommaInName = match[0].match(/,/);
+		// let stillHasNumberInName = match[0].match(/\d/);
+		// if (stillHasCommaInName && stillHasNumberInName) {
+		// 	match = match[0].split(regexLastComma);
+		// 	name = match[0];
+		// 	age = match[1];
+		// } else {
+		name = match[0];
+		age = match[1];
+		// }
+	} else if (hasPeriodInName && hasAgeInName) {
+		match = nameAgeField.split(regexLastPeriod);
+		name = match[0];
+		age = match[1];
+	} else if (hasAgeInName) {
+		let ageOnlyInField = nameAgeField.trim().match(/^\d/);
+		if (ageOnlyInField) {
+			age = nameAgeField;
+		} else {
+		}
+	} else if (!hasAgeInName) {
+		name = nameAgeField;
+	}
+
+	// if (e.includes('href')) {
+	// 	photo = /href="(.*?)"/.exec(e)[1];
+	// }
+
+	// match = e.replace(/<(?:.|\n)*?>/gm, '').split(/\,(?=[^,]*$)/);
+
+	// if (match.length === 2 && match[1].match(/\d/gi)) {
+	// } else {
+	// 	match = e.replace(/<(?:.|\n)*?>/gm, '').split(/\.(?=[^.]*$)/);
+	// 	if (match.length === 2) {
+	// 		if (match[1].match(/\d/)) {
+	// 		} else {
+	// 			name = match.join('');
+	// 		}
+	// 	} else {
+	// 		if (match.length === 1) {
+	// 			if (!match[0].match(/\d/)) {
+	// 				name = match[0].trim();
+	// 				age = null;
+	// 			} else if (match[0].match(/^\d/)) {
+	// 				name = null;
+	// 				age = match[0].trim();
+	// 			} else {
+	// 				match = /(\D+)(\d+)/gi.exec(match[0]);
+	// 				if (match.length == 3) {
+	// 					name = match[1].trim();
+	// 					age = match[2].trim();
+	// 				}
+	// 			}
+	// 		}
+	// 	}
+	// }
+
+	return {
+		name,
+		age,
+		photo,
 	};
 };
 

@@ -31,7 +31,6 @@
     "race": "B",
     "name": "Ricky Junior Toney",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130766.jpg",
     "killedBy": [
       "G"
     ],
@@ -45,7 +44,6 @@
     "race": "B",
     "name": "William Jackson",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130765.jpg",
     "killedBy": [
       "G"
     ],
@@ -59,7 +57,6 @@
     "race": "W",
     "name": "Bethany Lytle",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130764.jpg",
     "killedBy": [
       "G"
     ],
@@ -73,7 +70,6 @@
     "race": "W",
     "name": "Christopher George",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130763.jpg",
     "killedBy": [
       "G"
     ],
@@ -112,7 +108,6 @@
     "race": "W",
     "name": "Franklin Jones lll",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130760.jpg",
     "killedBy": [
       "G"
     ],
@@ -126,7 +121,6 @@
     "race": "W",
     "name": "Mitchell Allen Street",
     "age": 51,
-    "photo": "http://www.killedbypolice.net/victims/130759.jpg",
     "killedBy": [
       "G"
     ],
@@ -140,7 +134,6 @@
     "race": "B",
     "name": "Dante Chavful",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130758.jpg",
     "killedBy": [
       "G"
     ],
@@ -154,7 +147,6 @@
     "race": "L",
     "name": "Mario Edward Garnett",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130757.jpg",
     "killedBy": [
       "G"
     ],
@@ -168,7 +160,6 @@
     "race": "B",
     "name": "Somourian Jamal Wingo",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130756.jpg",
     "killedBy": [
       "G"
     ],
@@ -182,7 +173,6 @@
     "race": "B",
     "name": "Anthony Darnell King",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130755.jpg",
     "killedBy": [
       "G"
     ],
@@ -196,7 +186,6 @@
     "race": "W",
     "name": "John A. Massey",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130754.jpg",
     "killedBy": [
       "G"
     ],
@@ -210,7 +199,6 @@
     "race": "W",
     "name": "John Lincoln",
     "age": 49,
-    "photo": "http://www.killedbypolice.net/victims/130753.jpg",
     "killedBy": [
       "G"
     ],
@@ -224,7 +212,6 @@
     "race": "W",
     "name": "Asa James Dolak",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130752.jpg",
     "killedBy": [
       "G"
     ],
@@ -238,7 +225,6 @@
     "race": "B",
     "name": "James Torres",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130751.jpg",
     "killedBy": [
       "G"
     ],
@@ -252,7 +238,6 @@
     "race": "L",
     "name": "Michael Rosales",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130750.jpg",
     "killedBy": [
       "G"
     ],
@@ -266,7 +251,6 @@
     "race": "W",
     "name": "Peyton Cole Barbour",
     "age": 16,
-    "photo": "http://www.killedbypolice.net/victims/130749.jpg",
     "killedBy": [
       "G"
     ],
@@ -280,7 +264,6 @@
     "race": "W",
     "name": "Bill Livezey",
     "age": 70,
-    "photo": "http://www.killedbypolice.net/victims/130748.jpg",
     "killedBy": [
       "R"
     ],
@@ -294,7 +277,6 @@
     "race": "W",
     "name": "William Goodman",
     "age": 17,
-    "photo": "http://www.killedbypolice.net/victims/130747.jpg",
     "killedBy": [
       "G"
     ],
@@ -308,7 +290,6 @@
     "race": "I",
     "name": "Mah-Hi-Vist \"Red Bird\" Goodblanket",
     "age": 18,
-    "photo": "http://www.killedbypolice.net/victims/130746.jpg",
     "killedBy": [
       "G"
     ],
@@ -322,7 +303,6 @@
     "race": "W",
     "name": "James Lewis Brown",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130745.jpg",
     "killedBy": [
       "G"
     ],
@@ -336,7 +316,6 @@
     "race": "W",
     "name": "Matthew Clowers",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130744.jpg",
     "killedBy": [
       "G"
     ],
@@ -349,8 +328,7 @@
     "gender": "M",
     "race": "A",
     "name": "Raiden Saechao",
-    "age": "9 mo.",
-    "photo": "http://www.killedbypolice.net/victims/13RaidenSaechao.jpg",
+    "age": " 9 mo.   \t",
     "killedBy": [
       "V"
     ],
@@ -364,7 +342,6 @@
     "race": "B",
     "name": "Sharon Rebecca McDowell",
     "age": 49,
-    "photo": "http://www.killedbypolice.net/victims/130743.jpg",
     "killedBy": [
       "G"
     ],
@@ -378,7 +355,6 @@
     "race": "W",
     "name": "David P. Giliberti",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130742.jpg",
     "killedBy": [
       "G"
     ],
@@ -392,7 +368,6 @@
     "race": "W",
     "name": "William Anthony Shirlaw",
     "age": 54,
-    "photo": "http://www.killedbypolice.net/victims/130741.jpg",
     "killedBy": [
       "T"
     ],
@@ -406,7 +381,6 @@
     "race": "B",
     "name": "Cimarron Lamar Lamb",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130740.jpg",
     "killedBy": [
       "G"
     ],
@@ -420,7 +394,6 @@
     "race": "W",
     "name": "Duane Slentz",
     "age": 49,
-    "photo": "http://www.killedbypolice.net/victims/130739.jpg",
     "killedBy": [
       "G"
     ],
@@ -444,9 +417,8 @@
     "state": "AZ",
     "gender": "M",
     "race": "W",
-    "name": "John Harding,",
-    "age": 63,
-    "photo": "http://www.killedbypolice.net/victims/130737.jpg",
+    "name": "John Harding, 63",
+    "age": " \t",
     "killedBy": [
       "V"
     ],
@@ -460,7 +432,6 @@
     "race": "W",
     "name": "Kevin Ross",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130736.jpg",
     "killedBy": [
       "G"
     ],
@@ -474,7 +445,6 @@
     "race": "W",
     "name": "Darold Vanden Heuvel",
     "age": 63,
-    "photo": "http://www.killedbypolice.net/victims/130735.jpg",
     "killedBy": [
       "G"
     ],
@@ -488,7 +458,6 @@
     "race": "L",
     "name": "Lawrence Sanchez",
     "age": 49,
-    "photo": "http://www.killedbypolice.net/victims/130734.jpg",
     "killedBy": [
       "G"
     ],
@@ -515,7 +484,6 @@
     "race": "W",
     "name": "Brian Newt Beaird",
     "age": 51,
-    "photo": "http://www.killedbypolice.net/victims/130732.jpg",
     "killedBy": [
       "G"
     ],
@@ -529,7 +497,6 @@
     "race": "W",
     "name": "Ricky A. Taylor",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130731.jpg",
     "killedBy": [
       "G"
     ],
@@ -543,7 +510,6 @@
     "race": "W",
     "name": "Krystal Barrows",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130730.jpg",
     "killedBy": [
       "G"
     ],
@@ -557,7 +523,6 @@
     "race": "W",
     "name": "John Knudsen",
     "age": 61,
-    "photo": "http://www.killedbypolice.net/victims/130729.jpg",
     "killedBy": [
       "G"
     ],
@@ -571,7 +536,6 @@
     "race": "W",
     "name": "Eric M. Anderson",
     "age": 41,
-    "photo": "http://www.killedbypolice.net/victims/130728.jpg",
     "killedBy": [
       "G"
     ],
@@ -585,7 +549,6 @@
     "race": "W",
     "name": "Gregory Bendas",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130727.jpg",
     "killedBy": [
       "G"
     ],
@@ -599,7 +562,6 @@
     "race": "W",
     "name": "Robert Jeffrey Harris",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130726.jpg",
     "killedBy": [
       "G"
     ],
@@ -613,7 +575,6 @@
     "race": "B",
     "name": "Kenneth R. Herring",
     "age": 50,
-    "photo": "http://www.killedbypolice.net/victims/130725.jpg",
     "killedBy": [
       "G"
     ],
@@ -627,7 +588,6 @@
     "race": "W",
     "name": "Rodney Stevens",
     "age": 64,
-    "photo": "http://www.killedbypolice.net/victims/130724.jpg",
     "killedBy": [
       "G"
     ],
@@ -641,7 +601,6 @@
     "race": "W",
     "name": "Brandon Marshall",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130723.jpg",
     "killedBy": [
       "G"
     ],
@@ -655,7 +614,6 @@
     "race": "L",
     "name": "Adrian Montesano",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130722.jpg",
     "killedBy": [
       "G"
     ],
@@ -669,7 +627,6 @@
     "race": "L",
     "name": "Corsini Valdes",
     "age": 50,
-    "photo": "http://www.killedbypolice.net/victims/130721.jpg",
     "killedBy": [
       "G"
     ],
@@ -683,7 +640,6 @@
     "race": "W",
     "name": "Andy Snider",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130719.jpg",
     "killedBy": [
       "G"
     ],
@@ -697,7 +653,6 @@
     "race": "W",
     "name": "Milton Olin Jr.",
     "age": 65,
-    "photo": "http://www.killedbypolice.net/victims/130718.jpg",
     "killedBy": [
       "V"
     ],
@@ -723,7 +678,6 @@
     "race": "B",
     "name": "Jarred Brown Garnham",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130716.jpg",
     "killedBy": [
       "G"
     ],
@@ -749,7 +703,6 @@
     "race": "W",
     "name": "Patrick Heki",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130714.jpg",
     "killedBy": [
       "G"
     ],
@@ -763,7 +716,6 @@
     "race": "B",
     "name": "Darryl Dookhran",
     "age": 20,
-    "photo": "http://www.killedbypolice.net/victims/130713.jpg",
     "killedBy": [
       "G"
     ],
@@ -777,7 +729,6 @@
     "race": "W",
     "name": "Isaac Lankisch",
     "age": 42,
-    "photo": "http://www.killedbypolice.net/victims/130712.jpg",
     "killedBy": [
       "G"
     ],
@@ -791,7 +742,6 @@
     "race": "W",
     "name": "Robert Cameron Redus",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130711.jpg",
     "killedBy": [
       "G"
     ],
@@ -817,7 +767,6 @@
     "race": "W",
     "name": "Steven Jon Vogel",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130709.jpg",
     "killedBy": [
       "G"
     ],
@@ -856,7 +805,6 @@
     "race": "L",
     "name": "Dixon Rodriguez",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130706.jpg",
     "killedBy": [
       "G"
     ],
@@ -870,7 +818,6 @@
     "race": "B",
     "name": "Darius Jamal Murphy",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130705.jpg",
     "killedBy": [
       "G"
     ],
@@ -884,7 +831,6 @@
     "race": "W",
     "name": "Emmett Stanley Martin",
     "age": 53,
-    "photo": "http://www.killedbypolice.net/victims/130704.jpg",
     "killedBy": [
       "R"
     ],
@@ -898,7 +844,6 @@
     "race": "W",
     "name": "David Greenwood",
     "age": 49,
-    "photo": "http://www.killedbypolice.net/victims/130703.jpg",
     "killedBy": [
       "G"
     ],
@@ -924,7 +869,6 @@
     "race": "B",
     "name": "Jason Akeem Lewis",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130701.jpg",
     "killedBy": [
       "G"
     ],
@@ -938,7 +882,6 @@
     "race": "B",
     "name": "Jonathan D. Rodgers",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130700.jpg",
     "killedBy": [
       "G"
     ],
@@ -952,7 +895,6 @@
     "race": "W",
     "name": "Joshua D. Ford",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130699.jpg",
     "killedBy": [
       "G"
     ],
@@ -966,7 +908,6 @@
     "race": "L",
     "name": "Elizabeth Arellano Renteria",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130698.jpg",
     "killedBy": [
       "V"
     ],
@@ -993,7 +934,6 @@
     "race": "W",
     "name": "Anthony Bruno",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130696.jpg",
     "killedBy": [
       "G"
     ],
@@ -1020,7 +960,6 @@
     "race": "W",
     "name": "Jerry Paul Stovall III",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130694.jpg",
     "killedBy": [
       "G"
     ],
@@ -1034,7 +973,6 @@
     "race": "W",
     "name": "Troy D. Harden",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130693.jpg",
     "killedBy": [
       "G"
     ],
@@ -1060,7 +998,6 @@
     "race": "W",
     "name": "Charles Eimers",
     "age": 61,
-    "photo": "http://www.killedbypolice.net/victims/130691.jpg",
     "killedBy": [
       "T"
     ],
@@ -1074,7 +1011,6 @@
     "race": "L",
     "name": "Albert Manuel Vasquez",
     "age": 42,
-    "photo": "http://www.killedbypolice.net/victims/130690.jpg",
     "killedBy": [
       "G"
     ],
@@ -1088,7 +1024,6 @@
     "race": "W",
     "name": "Scott Pfeffer",
     "age": 48,
-    "photo": "http://www.killedbypolice.net/victims/130689.jpg",
     "killedBy": [
       "G"
     ],
@@ -1102,7 +1037,6 @@
     "race": "L",
     "name": "Simon Paschal Ramirez",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130688.jpg",
     "killedBy": [
       "G"
     ],
@@ -1116,7 +1050,6 @@
     "race": "B",
     "name": "Ervin Edwards",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130687.jpg",
     "killedBy": [
       "T"
     ],
@@ -1142,7 +1075,6 @@
     "race": "W",
     "name": "Brian Christopher Leggitt",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130685.jpg",
     "killedBy": [
       "G"
     ],
@@ -1156,7 +1088,6 @@
     "race": "L",
     "name": "Robert Reagh Gillon",
     "age": 72,
-    "photo": "http://www.killedbypolice.net/victims/130684.jpg",
     "killedBy": [
       "G"
     ],
@@ -1170,7 +1101,6 @@
     "race": "B",
     "name": "Carnell Lanair Williams",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130683.jpg",
     "killedBy": [
       "G"
     ],
@@ -1184,7 +1114,6 @@
     "race": "W",
     "name": "Jeremy McGee",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130682.jpg",
     "killedBy": [
       "G"
     ],
@@ -1198,7 +1127,6 @@
     "race": "B",
     "name": "Clarence Dorris",
     "age": 53,
-    "photo": "http://www.killedbypolice.net/victims/130681.jpg",
     "killedBy": [
       "G"
     ],
@@ -1212,7 +1140,6 @@
     "race": "B",
     "name": "Otavis Hall",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130680.jpg",
     "killedBy": [
       "G"
     ],
@@ -1226,7 +1153,6 @@
     "race": "W",
     "name": "Michael Habay",
     "age": 41,
-    "photo": "http://www.killedbypolice.net/victims/130679.jpg",
     "killedBy": [
       "G"
     ],
@@ -1252,7 +1178,6 @@
     "race": "W",
     "name": "Tyler Keinonen",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130677.jpg",
     "killedBy": [
       "G"
     ],
@@ -1279,7 +1204,6 @@
     "race": "W",
     "name": "Thomas Bradley \"Brad\" Garza",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130675.jpg",
     "killedBy": [
       "G"
     ],
@@ -1293,7 +1217,6 @@
     "race": "L",
     "name": "Jose Jovanny Mendoza",
     "age": 18,
-    "photo": "http://www.killedbypolice.net/victims/130674.jpg",
     "killedBy": [
       "G"
     ],
@@ -1307,7 +1230,6 @@
     "race": "W",
     "name": "Shane David Cataline",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130673.jpg",
     "killedBy": [
       "G"
     ],
@@ -1321,7 +1243,6 @@
     "race": "B",
     "name": "Danny Thornton",
     "age": 47,
-    "photo": "http://www.killedbypolice.net/victims/130672.jpg",
     "killedBy": [
       "G"
     ],
@@ -1335,7 +1256,6 @@
     "race": "W",
     "name": "Andrew Murnieks",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130671.jpg",
     "killedBy": [
       "G"
     ],
@@ -1349,7 +1269,6 @@
     "race": "W",
     "name": "Timothy Mahoney",
     "age": 58,
-    "photo": "http://www.killedbypolice.net/victims/130670.jpg",
     "killedBy": [
       "G"
     ],
@@ -1363,7 +1282,6 @@
     "race": "W",
     "name": "Michael David Jones",
     "age": 53,
-    "photo": "http://www.killedbypolice.net/victims/2995.jpg",
     "killedBy": [
       "C",
       "R"
@@ -1402,7 +1320,6 @@
     "race": "W",
     "name": "Larry Clay",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130667.jpg",
     "killedBy": [
       "G"
     ],
@@ -1416,7 +1333,6 @@
     "race": "B",
     "name": "Marty Maiden II",
     "age": 20,
-    "photo": "http://www.killedbypolice.net/victims/130666.jpg",
     "killedBy": [
       "G"
     ],
@@ -1442,7 +1358,6 @@
     "race": "B",
     "name": "Lennord Whittle",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130664.jpg",
     "killedBy": [
       "G"
     ],
@@ -1456,7 +1371,6 @@
     "race": "W",
     "name": "Joshua Hathaway",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130663.jpg",
     "killedBy": [
       "G"
     ],
@@ -1470,7 +1384,6 @@
     "race": "B",
     "name": "Tyler Damon Woods",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130662.jpg",
     "killedBy": [
       "G"
     ],
@@ -1496,7 +1409,6 @@
     "race": "W",
     "name": "Peter Oien",
     "age": 47,
-    "photo": "http://www.killedbypolice.net/victims/130660.jpg",
     "killedBy": [
       "G"
     ],
@@ -1510,7 +1422,6 @@
     "race": "W",
     "name": "James Steven Fay",
     "age": 55,
-    "photo": "http://www.killedbypolice.net/victims/130659.jpg",
     "killedBy": [
       "G"
     ],
@@ -1524,7 +1435,6 @@
     "race": "L",
     "name": "Antoine Duane Goodrum",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130658.jpg",
     "killedBy": [
       "G"
     ],
@@ -1538,7 +1448,6 @@
     "race": "L",
     "name": "Rexford Dasrath",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130657.jpg",
     "killedBy": [
       "G"
     ],
@@ -1552,7 +1461,6 @@
     "race": "W",
     "name": "Steve Bell",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130656.jpg",
     "killedBy": [
       "G"
     ],
@@ -1566,7 +1474,6 @@
     "race": "W",
     "name": "Robert Bandler",
     "age": 75,
-    "photo": "http://www.killedbypolice.net/victims/130655.jpg",
     "killedBy": [
       "G"
     ],
@@ -1580,7 +1487,6 @@
     "race": "B",
     "name": "Jonathan Wilcher",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130654.jpg",
     "killedBy": [
       "G"
     ],
@@ -1594,7 +1500,6 @@
     "race": "B",
     "name": "Jason D. White",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130653.jpg",
     "killedBy": [
       "G"
     ],
@@ -1608,7 +1513,6 @@
     "race": "B",
     "name": "Gary Boyd Sr.",
     "age": 42,
-    "photo": "http://www.killedbypolice.net/victims/130652.jpg",
     "killedBy": [
       "G"
     ],
@@ -1622,7 +1526,6 @@
     "race": "W",
     "name": "Nicholas Simonitch",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130651.jpg",
     "killedBy": [
       "G"
     ],
@@ -1636,7 +1539,6 @@
     "race": "W",
     "name": "Ted Hoffstrom",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130650.jpg",
     "killedBy": [
       "G"
     ],
@@ -1650,7 +1552,6 @@
     "race": "I",
     "name": "Andrea Naharro-Gionet",
     "age": 61,
-    "photo": "http://www.killedbypolice.net/victims/130649.jpg",
     "killedBy": [
       "G"
     ],
@@ -1702,7 +1603,6 @@
     "race": "B",
     "name": "Willie James Williams",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130645.jpg",
     "killedBy": [
       "G"
     ],
@@ -1729,7 +1629,6 @@
     "race": "L",
     "name": "Jonathen Anthony Santellana",
     "age": 17,
-    "photo": "http://www.killedbypolice.net/victims/130643.jpg",
     "killedBy": [
       "G"
     ],
@@ -1740,8 +1639,6 @@
     "date": "November 13, 2013",
     "state": "CA",
     "gender": "M",
-    "name": "",
-    "age": null,
     "killedBy": [
       "G"
     ],
@@ -1755,7 +1652,6 @@
     "race": "W",
     "name": "Jonathan Clark",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130641.jpg",
     "killedBy": [
       "G"
     ],
@@ -1769,7 +1665,6 @@
     "race": "B",
     "name": "Shawn Rieves",
     "age": 17,
-    "photo": "http://www.killedbypolice.net/victims/130640.jpg",
     "killedBy": [
       "G"
     ],
@@ -1783,7 +1678,6 @@
     "race": "B",
     "name": "Don White",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130639.jpg",
     "killedBy": [
       "G"
     ],
@@ -1797,7 +1691,6 @@
     "race": "B",
     "name": "Abdul Kamal",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130638.jpg",
     "killedBy": [
       "G"
     ],
@@ -1811,7 +1704,6 @@
     "race": "W",
     "name": "Christopher James Ryckeart",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130637.jpg",
     "killedBy": [
       "G"
     ],
@@ -1837,7 +1729,6 @@
     "race": "B",
     "name": "Donte Lamont Jordan",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130635.jpg",
     "killedBy": [
       "G"
     ],
@@ -1851,7 +1742,6 @@
     "race": "W",
     "name": "Wayne Brunette",
     "age": 49,
-    "photo": "http://www.killedbypolice.net/victims/130634.jpg",
     "killedBy": [
       "G"
     ],
@@ -1865,7 +1755,6 @@
     "race": "L",
     "name": "Jeanette Anaya",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130633.jpg",
     "killedBy": [
       "G"
     ],
@@ -1879,7 +1768,6 @@
     "race": "L",
     "name": "Jose Quinonez",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130632.jpg",
     "killedBy": [
       "G"
     ],
@@ -1893,7 +1781,6 @@
     "race": "A",
     "name": "Jerry Vue",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130631.jpg",
     "killedBy": [
       "G"
     ],
@@ -1907,7 +1794,6 @@
     "race": "B",
     "name": "Deonte Traylor",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130630.jpg",
     "killedBy": [
       "G"
     ],
@@ -1921,7 +1807,6 @@
     "race": "B",
     "name": "Michael Garrett Blair",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130629.jpg",
     "killedBy": [
       "G"
     ],
@@ -1935,7 +1820,6 @@
     "race": "W",
     "name": "Tyler Comstock",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130628.jpg",
     "killedBy": [
       "G"
     ],
@@ -1974,7 +1858,6 @@
     "race": "W",
     "name": "Nattela Ruth Blackwell",
     "age": 64,
-    "photo": "http://www.killedbypolice.net/victims/130625.jpg",
     "killedBy": [
       "G"
     ],
@@ -1988,7 +1871,6 @@
     "race": "B",
     "name": "Mark Ellis",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130624.jpg",
     "killedBy": [
       "G"
     ],
@@ -2002,7 +1884,6 @@
     "race": "L",
     "name": "Salvador Munoz",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130623.jpg",
     "killedBy": [
       "G"
     ],
@@ -2016,7 +1897,6 @@
     "race": "L",
     "name": "Rosa Elvira Flores-Lopez",
     "age": 50,
-    "photo": "http://www.killedbypolice.net/victims/130622.jpg",
     "killedBy": [
       "G"
     ],
@@ -2067,7 +1947,6 @@
     "race": "W",
     "name": "Eric C. Auxier",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130618.jpg",
     "killedBy": [
       "G"
     ],
@@ -2093,7 +1972,6 @@
     "race": "B",
     "name": "Cortdalro Damarcel Brown",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130616.jpg",
     "killedBy": [
       "G"
     ],
@@ -2107,7 +1985,6 @@
     "race": "I",
     "name": "John Garreaux",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130615.jpg",
     "killedBy": [
       "G"
     ],
@@ -2133,7 +2010,6 @@
     "race": "B",
     "name": "James Bryant",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130613.jpg",
     "killedBy": [
       "G"
     ],
@@ -2147,7 +2023,6 @@
     "race": "B",
     "name": "Ronald Wood",
     "age": 54,
-    "photo": "http://www.killedbypolice.net/victims/130612.jpg",
     "killedBy": [
       "R"
     ],
@@ -2161,7 +2036,6 @@
     "race": "B",
     "name": "Dionne Jordan",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130611.jpg",
     "killedBy": [
       "G"
     ],
@@ -2175,7 +2049,6 @@
     "race": "W",
     "name": "Michael Sica",
     "age": 57,
-    "photo": "http://www.killedbypolice.net/victims/130610.jpg",
     "killedBy": [
       "G"
     ],
@@ -2189,7 +2062,6 @@
     "race": "B",
     "name": "Alfred Ferrell III",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130609.jpg",
     "killedBy": [
       "G"
     ],
@@ -2203,7 +2075,6 @@
     "race": "B",
     "name": "Dominique Jean",
     "age": 51,
-    "photo": "http://www.killedbypolice.net/victims/130608.jpg",
     "killedBy": [
       "G"
     ],
@@ -2229,7 +2100,6 @@
     "gender": "F",
     "name": "Amy Reyna",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130606.jpg",
     "killedBy": [
       "G"
     ],
@@ -2255,7 +2125,6 @@
     "race": "B",
     "name": "Demitri Polen",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130604.jpg",
     "killedBy": [
       "G"
     ],
@@ -2269,7 +2138,6 @@
     "race": "B",
     "name": "George Pryor",
     "age": 61,
-    "photo": "http://www.killedbypolice.net/victims/130603.jpg",
     "killedBy": [
       "G"
     ],
@@ -2283,7 +2151,6 @@
     "race": "W",
     "name": "Clinton Peterson",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130602.jpg",
     "killedBy": [
       "G"
     ],
@@ -2297,7 +2164,6 @@
     "race": "L",
     "name": "Arturo Jorge Guzman",
     "age": 51,
-    "photo": "http://www.killedbypolice.net/victims/130601.jpg",
     "killedBy": [
       "G"
     ],
@@ -2311,7 +2177,6 @@
     "race": "B",
     "name": "Jarmel Anthony Cosby",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130600.jpg",
     "killedBy": [
       "G"
     ],
@@ -2338,7 +2203,6 @@
     "race": "W",
     "name": "Andrew Scott Hoffman",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130598.jpg",
     "killedBy": [
       "G"
     ],
@@ -2378,7 +2242,6 @@
     "race": "W",
     "name": "Jake Ramsey Maese Murphy",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130595.jpg",
     "killedBy": [
       "G"
     ],
@@ -2404,7 +2267,6 @@
     "race": "W",
     "name": "Joshua Collins",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130593.jpg",
     "killedBy": [
       "G"
     ],
@@ -2418,7 +2280,6 @@
     "race": "W",
     "name": "David Rocco Diroma",
     "age": 69,
-    "photo": "http://www.killedbypolice.net/victims/130592.jpg",
     "killedBy": [
       "G"
     ],
@@ -2432,7 +2293,6 @@
     "race": "W",
     "name": "Christopher Chase",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130591.jpg",
     "killedBy": [
       "G"
     ],
@@ -2446,7 +2306,6 @@
     "race": "B",
     "name": "Ronald Roland",
     "age": 18,
-    "photo": "http://www.killedbypolice.net/victims/130590.jpg",
     "killedBy": [
       "G"
     ],
@@ -2498,7 +2357,6 @@
     "race": "W",
     "name": "Robert Parlette, Jr.",
     "age": 73,
-    "photo": "http://www.killedbypolice.net/victims/130586.jpg",
     "killedBy": [
       "G"
     ],
@@ -2524,7 +2382,6 @@
     "race": "W",
     "name": "Steven Hughes Henning",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130584.jpg",
     "killedBy": [
       "G"
     ],
@@ -2563,7 +2420,6 @@
     "race": "L",
     "name": "Sergio Alberto Munoz",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130581.jpg",
     "killedBy": [
       "G"
     ],
@@ -2577,7 +2433,6 @@
     "race": "L",
     "name": "Rogelio Cisneros-Chavez",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130580.jpg",
     "killedBy": [
       "G"
     ],
@@ -2591,7 +2446,6 @@
     "race": "L",
     "name": "Jorge Azucena",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130579.jpg",
     "killedBy": [
       "R"
     ],
@@ -2617,7 +2471,6 @@
     "race": "W",
     "name": "Michael Clifford Garmon",
     "age": 47,
-    "photo": "http://www.killedbypolice.net/victims/130577.jpg",
     "killedBy": [
       "G"
     ],
@@ -2631,7 +2484,6 @@
     "race": "W",
     "name": "Michael Tray",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130576.jpg",
     "killedBy": [
       "G"
     ],
@@ -2657,7 +2509,6 @@
     "race": "W",
     "name": "Matthew Lofaro",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130574.jpg",
     "killedBy": [
       "G"
     ],
@@ -2671,7 +2522,6 @@
     "race": "L",
     "name": "Andy Lopez",
     "age": 13,
-    "photo": "http://www.killedbypolice.net/victims/130573.jpg",
     "killedBy": [
       "G"
     ],
@@ -2685,7 +2535,6 @@
     "race": "B",
     "name": "Terrance Harris",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130572.jpg",
     "killedBy": [
       "G"
     ],
@@ -2699,7 +2548,6 @@
     "race": "W",
     "name": "James David Duttman",
     "age": 57,
-    "photo": "http://www.killedbypolice.net/victims/130571.jpg",
     "killedBy": [
       "G"
     ],
@@ -2713,7 +2561,6 @@
     "race": "PI",
     "name": "Ryan Salonga",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130570.jpg",
     "killedBy": [
       "G"
     ],
@@ -2727,7 +2574,6 @@
     "race": "B",
     "name": "Tracy Bernard Clyde",
     "age": 42,
-    "photo": "http://www.killedbypolice.net/victims/130569.jpg",
     "killedBy": [
       "G"
     ],
@@ -2741,7 +2587,6 @@
     "race": "L",
     "name": "Timothy Lopez",
     "age": 47,
-    "photo": "http://www.killedbypolice.net/victims/130568.jpg",
     "killedBy": [
       "G"
     ],
@@ -2755,7 +2600,6 @@
     "race": "L",
     "name": "Christoval Quintana",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130567.jpg",
     "killedBy": [
       "G"
     ],
@@ -2782,7 +2626,6 @@
     "race": "W",
     "name": "Ian Burlakoff",
     "age": 42,
-    "photo": "http://www.killedbypolice.net/victims/130565.jpg",
     "killedBy": [
       "G"
     ],
@@ -2796,7 +2639,6 @@
     "race": "W",
     "name": "Mariano Joseph Mauro",
     "age": 53,
-    "photo": "http://www.killedbypolice.net/victims/130564.jpg",
     "killedBy": [
       "G"
     ],
@@ -2810,7 +2652,6 @@
     "race": "B",
     "name": "Taemarr Walker",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130563.jpg",
     "killedBy": [
       "G"
     ],
@@ -2837,7 +2678,6 @@
     "race": "W",
     "name": "James Allen",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130561.jpg",
     "killedBy": [
       "G"
     ],
@@ -2851,7 +2691,6 @@
     "race": "W",
     "name": "Jason Michael Kerr",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130560.jpg",
     "killedBy": [
       "G"
     ],
@@ -2865,7 +2704,6 @@
     "race": "L",
     "name": "Felix Valdez",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130559.jpg",
     "killedBy": [
       "G"
     ],
@@ -2891,7 +2729,6 @@
     "race": "W",
     "name": "Kevin Welsh",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130557.jpg",
     "killedBy": [
       "G"
     ],
@@ -2956,7 +2793,6 @@
     "race": "B",
     "name": "Aaron Dumas",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/1305521.jpg",
     "killedBy": [
       "C",
       "O"
@@ -2971,7 +2807,6 @@
     "race": "W",
     "name": "John Shepherd",
     "age": 58,
-    "photo": "http://www.killedbypolice.net/victims/130552.jpg",
     "killedBy": [
       "G"
     ],
@@ -2985,7 +2820,6 @@
     "race": "B",
     "name": "Cameron Massey",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130551.jpg",
     "killedBy": [
       "G"
     ],
@@ -2999,7 +2833,6 @@
     "race": "W",
     "name": "Winfred Watkins",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130550.jpg",
     "killedBy": [
       "G"
     ],
@@ -3013,7 +2846,6 @@
     "race": "W",
     "name": "Jacob Westberg",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130549.jpg",
     "killedBy": [
       "G"
     ],
@@ -3027,7 +2859,6 @@
     "race": "W",
     "name": "Andrew Aldrich",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130548.jpg",
     "killedBy": [
       "G"
     ],
@@ -3041,7 +2872,6 @@
     "race": "W",
     "name": "Earl Glenn Morrow",
     "age": 83,
-    "photo": "http://www.killedbypolice.net/victims/130547.jpg",
     "killedBy": [
       "G"
     ],
@@ -3055,7 +2885,6 @@
     "race": "L",
     "name": "Fernando Gomez",
     "age": 36,
-    "photo": "http://www.killedbypolice.net/victims/130546.jpg",
     "killedBy": [
       "R"
     ],
@@ -3069,7 +2898,6 @@
     "race": "W",
     "name": "Brad Evans",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130545.jpg",
     "killedBy": [
       "T"
     ],
@@ -3083,7 +2911,6 @@
     "race": "W",
     "name": "Benjamin Henry Burba",
     "age": 59,
-    "photo": "http://www.killedbypolice.net/victims/130544.jpg",
     "killedBy": [
       "G"
     ],
@@ -3097,7 +2924,6 @@
     "race": "B",
     "name": "Shaqur McNair",
     "age": 16,
-    "photo": "http://www.killedbypolice.net/victims/130543.jpg",
     "killedBy": [
       "G"
     ],
@@ -3111,7 +2937,6 @@
     "race": "W",
     "name": "Monica Ritchey",
     "age": 45,
-    "photo": "http://www.killedbypolice.net/victims/130542.jpg",
     "killedBy": [
       "G"
     ],
@@ -3125,7 +2950,6 @@
     "race": "B",
     "name": "William Taylor",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130541.jpg",
     "killedBy": [
       "G"
     ],
@@ -3139,7 +2963,6 @@
     "race": "B",
     "name": "Brandon Devone Smith",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130540.jpg",
     "killedBy": [
       "G"
     ],
@@ -3153,7 +2976,6 @@
     "race": "B",
     "name": "Derryl Drayton",
     "age": 51,
-    "photo": "http://www.killedbypolice.net/victims/130539.jpg",
     "killedBy": [
       "G"
     ],
@@ -3179,7 +3001,6 @@
     "race": "B",
     "name": "Raymond Johnson",
     "age": 41,
-    "photo": "http://www.killedbypolice.net/victims/130537.jpg",
     "killedBy": [
       "R"
     ],
@@ -3193,7 +3014,6 @@
     "race": "W",
     "name": "Kenneth Ray Clark",
     "age": 47,
-    "photo": "http://www.killedbypolice.net/victims/130536.jpg",
     "killedBy": [
       "G"
     ],
@@ -3207,7 +3027,6 @@
     "race": "W",
     "name": "Sheldon C. Norman",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130535.jpg",
     "killedBy": [
       "G"
     ],
@@ -3221,7 +3040,6 @@
     "race": "W",
     "name": "Shawn Nims",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130534.jpg",
     "killedBy": [
       "G"
     ],
@@ -3247,7 +3065,6 @@
     "race": "L",
     "name": "Max Cocheta Martin",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130532.jpg",
     "killedBy": [
       "G"
     ],
@@ -3261,7 +3078,6 @@
     "race": "W",
     "name": "Thomas Picard",
     "age": 55,
-    "photo": "http://www.killedbypolice.net/victims/130531.jpg",
     "killedBy": [
       "G"
     ],
@@ -3275,7 +3091,6 @@
     "race": "W",
     "name": "Steven Anthony Motley",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130530.jpg",
     "killedBy": [
       "R"
     ],
@@ -3315,7 +3130,6 @@
     "race": "B",
     "name": "Reginald Williams, Jr.",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130527.jpg",
     "killedBy": [
       "T"
     ],
@@ -3341,7 +3155,6 @@
     "race": "W",
     "name": "Zachary Goldson",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130525.jpg",
     "killedBy": [
       "R"
     ],
@@ -3355,7 +3168,6 @@
     "race": "W",
     "name": "Jeffery A. Sutherland",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130524.jpg",
     "killedBy": [
       "G"
     ],
@@ -3381,7 +3193,6 @@
     "race": "W",
     "name": "John Bartholomew",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130522.jpg",
     "killedBy": [
       "G"
     ],
@@ -3395,7 +3206,6 @@
     "race": "L",
     "name": "Jonathan Kane Garay",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130521.jpg",
     "killedBy": [
       "G"
     ],
@@ -3409,7 +3219,6 @@
     "race": "B",
     "name": "Jack Lamar Roberson",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130520.jpg",
     "killedBy": [
       "G"
     ],
@@ -3423,7 +3232,6 @@
     "race": "W",
     "name": "William Bruce Hemphill",
     "age": 51,
-    "photo": "http://www.killedbypolice.net/victims/130519.jpg",
     "killedBy": [
       "V"
     ],
@@ -3449,7 +3257,6 @@
     "race": "B",
     "name": "Michael Barnes",
     "age": 49,
-    "photo": "http://www.killedbypolice.net/victims/130517.jpg",
     "killedBy": [
       "V"
     ],
@@ -3475,7 +3282,6 @@
     "race": "B",
     "name": "Miriam Carey",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130515.jpg",
     "killedBy": [
       "G"
     ],
@@ -3489,7 +3295,6 @@
     "race": "B",
     "name": "Elijah Glay",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130514.jpg",
     "killedBy": [
       "G"
     ],
@@ -3501,8 +3306,6 @@
     "state": "TX",
     "gender": "M",
     "race": "L",
-    "name": null,
-    "age": "20-25",
     "killedBy": [
       "G"
     ],
@@ -3516,7 +3319,6 @@
     "race": "W",
     "name": "Larry Steve Howard II",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130512.jpg",
     "killedBy": [
       "R"
     ],
@@ -3543,7 +3345,6 @@
     "race": "W",
     "name": "Wendy Lawrence",
     "age": 45,
-    "photo": "http://www.killedbypolice.net/victims/130510.jpg",
     "killedBy": [
       "G"
     ],
@@ -3557,7 +3358,6 @@
     "race": "W",
     "name": "Travis Davis",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130509.jpg",
     "killedBy": [
       "G"
     ],
@@ -3571,7 +3371,6 @@
     "race": "B",
     "name": "Alexander Jamar Marion",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130508.jpg",
     "killedBy": [
       "G"
     ],
@@ -3585,7 +3384,6 @@
     "race": "W",
     "name": "Austin Francis Jones",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130505.jpg",
     "killedBy": [
       "G"
     ],
@@ -3599,7 +3397,6 @@
     "race": "W",
     "name": "Caleb Hector",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130503.jpg",
     "killedBy": [
       "G"
     ],
@@ -3626,7 +3423,6 @@
     "race": "W",
     "name": "William Keith Hall",
     "age": 57,
-    "photo": "http://www.killedbypolice.net/victims/130501.jpg",
     "killedBy": [
       "G"
     ],
@@ -3640,7 +3436,6 @@
     "race": "W",
     "name": "John Del Real",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130500.jpg",
     "killedBy": [
       "G"
     ],
@@ -3666,7 +3461,6 @@
     "race": "W",
     "name": "Luke Castello",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130498.jpg",
     "killedBy": [
       "G"
     ],
@@ -3677,8 +3471,6 @@
     "date": "September 25, 2013",
     "state": "TX",
     "gender": "M",
-    "name": "",
-    "age": null,
     "killedBy": [
       "G"
     ],
@@ -3692,7 +3484,6 @@
     "race": "W",
     "name": "Eric Poore",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130496.jpg",
     "killedBy": [
       "G"
     ],
@@ -3706,7 +3497,6 @@
     "race": "L",
     "name": "Erick Balint",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130495.jpg",
     "killedBy": [
       "G"
     ],
@@ -3720,7 +3510,6 @@
     "race": "W",
     "name": "Connor Bishop Zion",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130494.jpg",
     "killedBy": [
       "G"
     ],
@@ -3734,7 +3523,6 @@
     "race": "B",
     "name": "Tracy Daquan Bost",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130493.jpg",
     "killedBy": [
       "G"
     ],
@@ -3748,7 +3536,6 @@
     "race": "B",
     "name": "Antonio Nash",
     "age": 18,
-    "photo": "http://www.killedbypolice.net/victims/130492.jpg",
     "killedBy": [
       "G"
     ],
@@ -3762,7 +3549,6 @@
     "race": "W",
     "name": "Kenneth Robert Sprankle",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130491.jpg",
     "killedBy": [
       "G"
     ],
@@ -3776,7 +3562,6 @@
     "race": "W",
     "name": "Jeffrey P. Watts",
     "age": 47,
-    "photo": "http://www.killedbypolice.net/victims/130490.jpg",
     "killedBy": [
       "G"
     ],
@@ -3790,7 +3575,6 @@
     "race": "W",
     "name": "Michael Lee Zubrod",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130489.jpg",
     "killedBy": [
       "T"
     ],
@@ -3804,7 +3588,6 @@
     "race": "W",
     "name": "Tel Levi Rodgers",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130488.jpg",
     "killedBy": [
       "G"
     ],
@@ -3818,7 +3601,6 @@
     "race": "W",
     "name": "Susan Macchi",
     "age": 64,
-    "photo": "http://www.killedbypolice.net/victims/130507.jpg",
     "killedBy": [
       "V"
     ],
@@ -3845,7 +3627,6 @@
     "race": "W",
     "name": "Breanne Michelle Sharpe",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130487.jpg",
     "killedBy": [
       "G"
     ],
@@ -3897,7 +3678,6 @@
     "race": "B",
     "name": "Steven Byrdo",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130483.jpg",
     "killedBy": [
       "G"
     ],
@@ -3911,7 +3691,6 @@
     "race": "L",
     "name": "Austin Del Castillo",
     "age": 36,
-    "photo": "http://www.killedbypolice.net/victims/130482.jpg",
     "killedBy": [
       "G"
     ],
@@ -3963,7 +3742,6 @@
     "race": "W",
     "name": "David Farries",
     "age": 55,
-    "photo": "http://www.killedbypolice.net/victims/130504.jpg",
     "killedBy": [
       "V"
     ],
@@ -3977,7 +3755,6 @@
     "race": "B",
     "name": "Derek Walker",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130478.jpg",
     "killedBy": [
       "G"
     ],
@@ -3991,7 +3768,6 @@
     "race": "W",
     "name": "Charles Adrien Martin",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130477.jpg",
     "killedBy": [
       "G"
     ],
@@ -4005,7 +3781,6 @@
     "race": "B",
     "name": "Mitchell Alanda St. Clair, Jr",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130476.jpg",
     "killedBy": [
       "G"
     ],
@@ -4019,7 +3794,6 @@
     "race": "B",
     "name": "Aaron Alexis",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130475.jpg",
     "killedBy": [
       "G"
     ],
@@ -4033,7 +3807,6 @@
     "race": "W",
     "name": "Justin Bryan Harger",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130474.jpg",
     "killedBy": [
       "G"
     ],
@@ -4047,7 +3820,6 @@
     "race": "L",
     "name": "Jorge Ramirez",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130473.jpg",
     "killedBy": [
       "G"
     ],
@@ -4061,7 +3833,6 @@
     "race": "W",
     "name": "Danielle Maudsley",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130472.jpg",
     "killedBy": [
       "T"
     ],
@@ -4075,7 +3846,6 @@
     "race": "B",
     "name": "Samuel Frazier",
     "age": 56,
-    "photo": "http://www.killedbypolice.net/victims/130471.jpg",
     "killedBy": [
       "G"
     ],
@@ -4101,7 +3871,6 @@
     "race": "W",
     "name": "Lance L. Danielson",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130469.jpg",
     "killedBy": [
       "G"
     ],
@@ -4115,7 +3884,6 @@
     "race": "B",
     "name": "RT McGinty",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130468.jpg",
     "killedBy": [
       "G"
     ],
@@ -4129,7 +3897,6 @@
     "race": "B",
     "name": "Jonathan A. Ferrell",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130467.jpg",
     "killedBy": [
       "G"
     ],
@@ -4143,7 +3910,6 @@
     "race": "L",
     "name": "Hector Jimenez",
     "age": 50,
-    "photo": "http://www.killedbypolice.net/victims/130466.jpg",
     "killedBy": [
       "G"
     ],
@@ -4169,7 +3935,6 @@
     "race": "B",
     "name": "Bradley Ballard",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/13Ballard.jpg",
     "killedBy": [
       "O"
     ],
@@ -4183,7 +3948,6 @@
     "race": "L",
     "name": "Daniel Richard Vasquez",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130464.jpg",
     "killedBy": [
       "G"
     ],
@@ -4197,7 +3961,6 @@
     "race": "B",
     "name": "William Brown",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130463.jpg",
     "killedBy": [
       "G"
     ],
@@ -4211,7 +3974,6 @@
     "race": "L",
     "name": "Carlos Oliva-Sola",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130462.jpg",
     "killedBy": [
       "G"
     ],
@@ -4225,7 +3987,6 @@
     "race": "B",
     "name": "Brian Nichols",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130461.jpg",
     "killedBy": [
       "R"
     ],
@@ -4249,8 +4010,6 @@
     "date": "September 9, 2013",
     "state": "TX",
     "gender": "M",
-    "name": "",
-    "age": null,
     "killedBy": [
       "G"
     ],
@@ -4264,7 +4023,6 @@
     "race": "W",
     "name": "Shawn Evans",
     "age": 56,
-    "photo": "http://www.killedbypolice.net/victims/130458.jpg",
     "killedBy": [
       "G"
     ],
@@ -4278,7 +4036,6 @@
     "race": "L",
     "name": "Joseph Duran",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130457.jpg",
     "killedBy": [
       "C"
     ],
@@ -4304,7 +4061,6 @@
     "race": "B",
     "name": "Monroe Isadore",
     "age": 107,
-    "photo": "http://www.killedbypolice.net/victims/130455.jpg",
     "killedBy": [
       "G"
     ],
@@ -4318,7 +4074,6 @@
     "race": "W",
     "name": "John Shanks",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130454.jpg",
     "killedBy": [
       "G"
     ],
@@ -4332,7 +4087,6 @@
     "race": "B",
     "name": "Marlon Horton",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130453.jpg",
     "killedBy": [
       "G"
     ],
@@ -4346,7 +4100,6 @@
     "race": "W",
     "name": "Lealann Russell Melder Cooley",
     "age": 46,
-    "photo": "http://www.killedbypolice.net/victims/130452.jpg",
     "killedBy": [
       "G"
     ],
@@ -4360,7 +4113,6 @@
     "race": "B",
     "name": "Charlie Christopher Bates",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130450.jpg",
     "killedBy": [
       "G"
     ],
@@ -4374,7 +4126,6 @@
     "race": "L",
     "name": "Michael Deluca",
     "age": 53,
-    "photo": "http://www.killedbypolice.net/victims/130449.jpg",
     "killedBy": [
       "G"
     ],
@@ -4388,7 +4139,6 @@
     "race": "B",
     "name": "Ray Anson Mitchell",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130448.jpg",
     "killedBy": [
       "G"
     ],
@@ -4401,7 +4151,6 @@
     "gender": "M",
     "name": "Denis Reynoso",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130447.jpg",
     "killedBy": [
       "G"
     ],
@@ -4427,7 +4176,6 @@
     "race": "B",
     "name": "Kenneth Lamar Bedgood",
     "age": 36,
-    "photo": "http://www.killedbypolice.net/victims/130445.jpg",
     "killedBy": [
       "G"
     ],
@@ -4441,7 +4189,6 @@
     "race": "B",
     "name": "Benjamin Hickey",
     "age": 45,
-    "photo": "http://www.killedbypolice.net/victims/130444.jpg",
     "killedBy": [
       "G"
     ],
@@ -4455,7 +4202,6 @@
     "race": "L",
     "name": "Juan Carlos Ruelas",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130443.jpg",
     "killedBy": [
       "G"
     ],
@@ -4469,7 +4215,6 @@
     "race": "B",
     "name": "Donte Bennett",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130442.jpg",
     "killedBy": [
       "G"
     ],
@@ -4493,9 +4238,6 @@
     "state": "FL",
     "gender": "M",
     "race": "W",
-    "name": "Norman Oosterbroek",
-    "age": null,
-    "photo": "http://www.killedbypolice.net/victims/130440.jpg",
     "killedBy": [
       "T"
     ],
@@ -4521,7 +4263,6 @@
     "race": "W",
     "name": "Seth Victor",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130438.jpg",
     "killedBy": [
       "T"
     ],
@@ -4547,7 +4288,6 @@
     "race": "W",
     "name": "Jeffrey Frump",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130436.jpg",
     "killedBy": [
       "G"
     ],
@@ -4573,7 +4313,6 @@
     "race": "L",
     "name": "Ismael Maria-Acevedo",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130434.jpg",
     "killedBy": [
       "R"
     ],
@@ -4599,7 +4338,6 @@
     "race": "W",
     "name": "Ronald Wesley Sexton",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130432.jpg",
     "killedBy": [
       "G"
     ],
@@ -4613,7 +4351,6 @@
     "race": "L",
     "name": "Brian Phillip Tacadena",
     "age": 46,
-    "photo": "http://www.killedbypolice.net/victims/130431.jpg",
     "killedBy": [
       "G"
     ],
@@ -4627,7 +4364,6 @@
     "race": "L",
     "name": "Jaime Benavidez",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130430.jpg",
     "killedBy": [
       "G"
     ],
@@ -4641,7 +4377,6 @@
     "race": "W",
     "name": "Casey Nicholas Smith",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130429.jpg",
     "killedBy": [
       "G"
     ],
@@ -4655,7 +4390,6 @@
     "race": "L",
     "name": "Michael Troy Swatosh",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130428.jpg",
     "killedBy": [
       "G"
     ],
@@ -4669,7 +4403,6 @@
     "race": "B",
     "name": "Rickey Rozelle",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130427.jpg",
     "killedBy": [
       "G"
     ],
@@ -4683,7 +4416,6 @@
     "race": "L",
     "name": "Vergel Ricafrente Worrell",
     "age": 46,
-    "photo": "http://www.killedbypolice.net/victims/130426.jpg",
     "killedBy": [
       "G"
     ],
@@ -4709,7 +4441,6 @@
     "race": "W",
     "name": "Matthew Jackson",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130424.jpg",
     "killedBy": [
       "G"
     ],
@@ -4723,7 +4454,6 @@
     "race": "W",
     "name": "Justin Michael Linn",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/1304232.jpg",
     "killedBy": [
       "G"
     ],
@@ -4737,7 +4467,6 @@
     "race": "L",
     "name": "Jaime Ceballos",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130423.jpg",
     "killedBy": [
       "G"
     ],
@@ -4751,7 +4480,6 @@
     "race": "B",
     "name": "Ronnie Ledesma Jr.",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130422.jpg",
     "killedBy": [
       "R"
     ],
@@ -4789,7 +4517,6 @@
     "race": "W",
     "name": "John Geer",
     "age": 46,
-    "photo": "http://www.killedbypolice.net/victims/130418.jpg",
     "killedBy": [
       "G"
     ],
@@ -4803,7 +4530,6 @@
     "race": "L",
     "name": "Xavier Arturo Sanchez",
     "age": 10,
-    "photo": "http://www.killedbypolice.net/victims/3087.jpg",
     "killedBy": [
       "V"
     ],
@@ -4817,7 +4543,6 @@
     "race": "B",
     "name": "John Van Allen II",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130417.jpg",
     "killedBy": [
       "G"
     ],
@@ -4831,7 +4556,6 @@
     "race": "B",
     "name": "Tevon Smith",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130416.jpg",
     "killedBy": [
       "G"
     ],
@@ -4880,8 +4604,6 @@
     "date": "August 28, 2013",
     "state": "CA",
     "gender": "M",
-    "name": "",
-    "age": null,
     "killedBy": [
       "G"
     ],
@@ -4895,7 +4617,6 @@
     "race": "B",
     "name": "Korey Marcel Germaine",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130412.jpg",
     "killedBy": [
       "G"
     ],
@@ -4909,7 +4630,6 @@
     "race": "B",
     "name": "Henry Kiner",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130411.jpg",
     "killedBy": [
       "G"
     ],
@@ -4923,7 +4643,6 @@
     "race": "W",
     "name": "Robert Palmer",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130410.jpg",
     "killedBy": [
       "R"
     ],
@@ -4937,7 +4656,6 @@
     "race": "W",
     "name": "Tony Procell",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130409.jpg",
     "killedBy": [
       "R"
     ],
@@ -4974,9 +4692,8 @@
     "state": "CA",
     "gender": "M",
     "race": "W",
-    "name": "Ryan Carnan",
+    "name": "Ryan Carnan ",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130406.jpg",
     "killedBy": [
       "G"
     ],
@@ -4990,7 +4707,6 @@
     "race": "W",
     "name": "Eric B. Johnston",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130405.jpg",
     "killedBy": [
       "G"
     ],
@@ -5028,7 +4744,6 @@
     "race": "W",
     "name": "Jonathan Tricarico",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130402.jpg",
     "killedBy": [
       "G"
     ],
@@ -5042,7 +4757,6 @@
     "race": "L",
     "name": "Angel Toscano",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/13Toscano.jpg",
     "killedBy": [
       "V"
     ],
@@ -5056,7 +4770,6 @@
     "race": "W",
     "name": "Rick Santistevan",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130401.jpg",
     "killedBy": [
       "R"
     ],
@@ -5082,7 +4795,6 @@
     "race": "B",
     "name": "Edmond Fair",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130399.jpg",
     "killedBy": [
       "G"
     ],
@@ -5096,7 +4808,6 @@
     "race": "L",
     "name": "Eulizez Rodriguez",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130398.jpg",
     "killedBy": [
       "G"
     ],
@@ -5110,7 +4821,6 @@
     "race": "W",
     "name": "Roza Sakhina",
     "age": 101,
-    "photo": "http://www.killedbypolice.net/victims/130397.jpg",
     "killedBy": [
       "V"
     ],
@@ -5124,7 +4834,6 @@
     "race": "W",
     "name": "Danny Jones",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130396.jpg",
     "killedBy": [
       "G"
     ],
@@ -5138,7 +4847,6 @@
     "race": "W",
     "name": "Henry C. Taylor Jr.",
     "age": 68,
-    "photo": "http://www.killedbypolice.net/victims/130395.jpg",
     "killedBy": [
       "G"
     ],
@@ -5152,7 +4860,6 @@
     "race": "W",
     "name": "Raymond P. Majors",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130394.jpg",
     "killedBy": [
       "G"
     ],
@@ -5190,7 +4897,6 @@
     "race": "W",
     "name": "Matthew David Borner",
     "age": 52,
-    "photo": "http://www.killedbypolice.net/victims/130391.jpg",
     "killedBy": [
       "G"
     ],
@@ -5229,7 +4935,6 @@
     "race": "W",
     "name": "Robert Edward Hart",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130388.jpg",
     "killedBy": [
       "G"
     ],
@@ -5243,7 +4948,6 @@
     "race": "L",
     "name": "Michael Angel Ruiz",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130387.jpg",
     "killedBy": [
       "T"
     ],
@@ -5281,7 +4985,6 @@
     "race": "W",
     "name": "John Terzani",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130384.jpg",
     "killedBy": [
       "G"
     ],
@@ -5308,7 +5011,6 @@
     "race": "W",
     "name": "Tracy Lynn Daniel",
     "age": 51,
-    "photo": "http://www.killedbypolice.net/victims/130383.jpg",
     "killedBy": [
       "G"
     ],
@@ -5322,7 +5024,6 @@
     "race": "W",
     "name": "Roger David Street",
     "age": 58,
-    "photo": "http://www.killedbypolice.net/victims/130382.jpg",
     "killedBy": [
       "G"
     ],
@@ -5336,7 +5037,6 @@
     "race": "W",
     "name": "Robert Bellfleur",
     "age": 78,
-    "photo": "http://www.killedbypolice.net/victims/130381.jpg",
     "killedBy": [
       "G"
     ],
@@ -5350,7 +5050,6 @@
     "race": "L",
     "name": "Justo Quintero",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130380.jpg",
     "killedBy": [
       "G"
     ],
@@ -5364,7 +5063,6 @@
     "race": "W",
     "name": "Seth Jacob Beckman",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130379.jpg",
     "killedBy": [
       "G"
     ],
@@ -5378,7 +5076,6 @@
     "race": "PI",
     "name": "Mason Saio",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130378.jpg",
     "killedBy": [
       "G"
     ],
@@ -5392,7 +5089,6 @@
     "race": "W",
     "name": "Charles G. Carll",
     "age": 59,
-    "photo": "http://www.killedbypolice.net/victims/130377.jpg",
     "killedBy": [
       "G"
     ],
@@ -5406,7 +5102,6 @@
     "race": "W",
     "name": "Donald Peter Johnson",
     "age": 50,
-    "photo": "http://www.killedbypolice.net/victims/130376.jpg",
     "killedBy": [
       "G"
     ],
@@ -5420,7 +5115,6 @@
     "race": "W",
     "name": "Blake Allen Barbour",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130375.jpg",
     "killedBy": [
       "G"
     ],
@@ -5458,7 +5152,6 @@
     "race": "W",
     "name": "Donny Gene Simmons Jr.",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130372.jpg",
     "killedBy": [
       "G"
     ],
@@ -5472,7 +5165,6 @@
     "race": "L",
     "name": "Alex Cora DeJesus",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130371.jpg",
     "killedBy": [
       "G"
     ],
@@ -5486,7 +5178,6 @@
     "race": "B",
     "name": "Eric McNeil",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130370.jpg",
     "killedBy": [
       "G"
     ],
@@ -5512,7 +5203,6 @@
     "race": "W",
     "name": "Graham Dyer",
     "age": 18,
-    "photo": "http://www.killedbypolice.net/victims/130419.jpg",
     "killedBy": [
       "T",
       "R"
@@ -5527,7 +5217,6 @@
     "race": "O",
     "name": "Faued Abdo Ahmed",
     "age": 20,
-    "photo": "http://www.killedbypolice.net/victims/130368.jpg",
     "killedBy": [
       "G"
     ],
@@ -5566,7 +5255,6 @@
     "race": "W",
     "name": "Gary Roell",
     "age": 59,
-    "photo": "http://www.killedbypolice.net/victims/130365.jpg",
     "killedBy": [
       "T"
     ],
@@ -5580,7 +5268,6 @@
     "race": "W",
     "name": "Steven Michael Brill",
     "age": 46,
-    "photo": "http://www.killedbypolice.net/victims/130364.jpg",
     "killedBy": [
       "G"
     ],
@@ -5594,7 +5281,6 @@
     "race": "B",
     "name": "Martin A. Duckworth",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130363.jpg",
     "killedBy": [
       "G"
     ],
@@ -5608,7 +5294,6 @@
     "race": "B",
     "name": "Russell D. Donahue",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130362.jpg",
     "killedBy": [
       "G"
     ],
@@ -5634,7 +5319,6 @@
     "race": "B",
     "name": "Montrell Moss",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130360.jpg",
     "killedBy": [
       "G"
     ],
@@ -5648,7 +5332,6 @@
     "race": "B",
     "name": "Wayne Edwards II",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130359.jpg",
     "killedBy": [
       "G"
     ],
@@ -5662,7 +5345,6 @@
     "race": "W",
     "name": "Mitchell Keith Campbell",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130358.jpg",
     "killedBy": [
       "G"
     ],
@@ -5676,7 +5358,6 @@
     "race": "W",
     "name": "James Lee DiMaggio",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130357.jpg",
     "killedBy": [
       "G"
     ],
@@ -5690,7 +5371,6 @@
     "race": "W",
     "name": "Robert William Kaminski",
     "age": 62,
-    "photo": "http://www.killedbypolice.net/victims/130356.jpg",
     "killedBy": [
       "G"
     ],
@@ -5704,7 +5384,6 @@
     "race": "W",
     "name": "James William Wallace",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130355.jpg",
     "killedBy": [
       "G"
     ],
@@ -5715,8 +5394,6 @@
     "date": "August 9, 2013",
     "state": "CA",
     "gender": "M",
-    "name": "",
-    "age": null,
     "killedBy": [
       "G"
     ],
@@ -5730,7 +5407,6 @@
     "race": "W",
     "name": "Brent Walls",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130353.jpg",
     "killedBy": [
       "G"
     ],
@@ -5744,7 +5420,6 @@
     "race": "B",
     "name": "Jeffery Lilly",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130352.jpg",
     "killedBy": [
       "T"
     ],
@@ -5758,7 +5433,6 @@
     "race": "W",
     "name": "Michael Ray Bitters",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130351.jpg",
     "killedBy": [
       "G"
     ],
@@ -5784,7 +5458,6 @@
     "race": "W",
     "name": "Leamon Ward",
     "age": 20,
-    "photo": "http://www.killedbypolice.net/victims/130349.jpg",
     "killedBy": [
       "G"
     ],
@@ -5798,7 +5471,6 @@
     "race": "W",
     "name": "Kevin Koonce",
     "age": 46,
-    "photo": "http://www.killedbypolice.net/victims/130348.jpg",
     "killedBy": [
       "G"
     ],
@@ -5812,7 +5484,6 @@
     "race": "B",
     "name": "Roudy Hendricks",
     "age": 20,
-    "photo": "http://www.killedbypolice.net/victims/130346.jpg",
     "killedBy": [
       "G"
     ],
@@ -5826,7 +5497,6 @@
     "race": "L",
     "name": "Hector Leija",
     "age": 61,
-    "photo": "http://www.killedbypolice.net/victims/130345.jpg",
     "killedBy": [
       "G"
     ],
@@ -5840,7 +5510,6 @@
     "race": "L",
     "name": "Israel Hernandez-Llach",
     "age": 18,
-    "photo": "http://www.killedbypolice.net/victims/130347.jpg",
     "killedBy": [
       "T"
     ],
@@ -5864,8 +5533,6 @@
     "date": "August 6, 2013",
     "state": "TX",
     "gender": "M",
-    "name": "",
-    "age": null,
     "killedBy": [
       "G"
     ],
@@ -5879,7 +5546,6 @@
     "race": "L",
     "name": "John Chavez",
     "age": 54,
-    "photo": "http://www.killedbypolice.net/victims/130342.jpg",
     "killedBy": [
       "G"
     ],
@@ -5893,7 +5559,6 @@
     "race": "W",
     "name": "Alvin McBride",
     "age": 41,
-    "photo": "http://www.killedbypolice.net/victims/130341.jpg",
     "killedBy": [
       "G"
     ],
@@ -5919,7 +5584,6 @@
     "race": "W",
     "name": "Oral Allen Murray",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130339.jpg",
     "killedBy": [
       "R"
     ],
@@ -5933,7 +5597,6 @@
     "race": "B",
     "name": "Shaaliver Douse",
     "age": 14,
-    "photo": "http://www.killedbypolice.net/victims/130338.jpg",
     "killedBy": [
       "G"
     ],
@@ -5947,7 +5610,6 @@
     "race": "L",
     "name": "Eric Marquez",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130337.jpg",
     "killedBy": [
       "G"
     ],
@@ -5961,7 +5623,6 @@
     "race": "W",
     "name": "Jon M. Sides",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130336.jpg",
     "killedBy": [
       "G"
     ],
@@ -5975,7 +5636,6 @@
     "race": "L",
     "name": "Russell Rios",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130335.jpg",
     "killedBy": [
       "G"
     ],
@@ -5989,7 +5649,6 @@
     "race": "B",
     "name": "Jermaine McBean",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130334.jpg",
     "killedBy": [
       "G"
     ],
@@ -6003,7 +5662,6 @@
     "race": "W",
     "name": "Paul Schenck",
     "age": 42,
-    "photo": "http://www.killedbypolice.net/victims/130332.jpg",
     "killedBy": [
       "G"
     ],
@@ -6017,7 +5675,6 @@
     "race": "B",
     "name": "Allen Desdunes",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130331.jpg",
     "killedBy": [
       "G"
     ],
@@ -6031,7 +5688,6 @@
     "race": "W",
     "name": "Ben Ellett",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130330.jpg",
     "killedBy": [
       "G"
     ],
@@ -6044,7 +5700,6 @@
     "gender": "M",
     "name": "Shaun Nathaniel Walters",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130329.jpg",
     "killedBy": [
       "G"
     ],
@@ -6058,7 +5713,6 @@
     "race": "W",
     "name": "Clifford Jones",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130328.jpg",
     "killedBy": [
       "G"
     ],
@@ -6072,7 +5726,6 @@
     "race": "L",
     "name": "Hans \"Kevin\" Arellano",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130327.jpg",
     "killedBy": [
       "G"
     ],
@@ -6097,9 +5750,6 @@
     "state": "AL",
     "gender": "M",
     "race": "B",
-    "name": "Michael Jermaine Lollis",
-    "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130325.jpg",
     "killedBy": [
       "G"
     ],
@@ -6113,7 +5763,6 @@
     "race": "W",
     "name": "Donna M. Weaver",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130324.jpg",
     "killedBy": [
       "G"
     ],
@@ -6139,7 +5788,6 @@
     "race": "W",
     "name": "Shane Allen Ryan",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130322.jpg",
     "killedBy": [
       "G"
     ],
@@ -6165,7 +5813,6 @@
     "race": "W",
     "name": "Casey Daniel Smith",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130320.jpg",
     "killedBy": [
       "G"
     ],
@@ -6190,7 +5837,6 @@
     "gender": "M",
     "name": "Stacy Guy Garren",
     "age": 49,
-    "photo": "http://www.killedbypolice.net/victims/130318.jpg",
     "killedBy": [
       "G"
     ],
@@ -6204,7 +5850,6 @@
     "race": "B",
     "name": "Tyris Wilkerson",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130317.jpg",
     "killedBy": [
       "G"
     ],
@@ -6218,7 +5863,6 @@
     "race": "B",
     "name": "Ryan L. Stokes",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130316.jpg",
     "killedBy": [
       "G"
     ],
@@ -6232,7 +5876,6 @@
     "race": "W",
     "name": "Jonathan David Rutkowski",
     "age": 20,
-    "photo": "http://www.killedbypolice.net/victims/130315.jpg",
     "killedBy": [
       "G"
     ],
@@ -6246,7 +5889,6 @@
     "race": "W",
     "name": "Craig Berner",
     "age": 52,
-    "photo": "http://www.killedbypolice.net/victims/130314.jpg",
     "killedBy": [
       "V"
     ],
@@ -6260,7 +5902,6 @@
     "race": "L",
     "name": "Pedro Vargas",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130313.jpg",
     "killedBy": [
       "G"
     ],
@@ -6274,7 +5915,6 @@
     "race": "L",
     "name": "Jose Adan Cruz Ocampo",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130312.jpg",
     "killedBy": [
       "G"
     ],
@@ -6288,7 +5928,6 @@
     "race": "W",
     "name": "John Wrana",
     "age": 95,
-    "photo": "http://www.killedbypolice.net/victims/130311.jpg",
     "killedBy": [
       "G"
     ],
@@ -6302,7 +5941,6 @@
     "race": "L",
     "name": "Juan Luis Acuna",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130310.jpg",
     "killedBy": [
       "G"
     ],
@@ -6316,7 +5954,6 @@
     "race": "B",
     "name": "Larry Eugene Jackson Jr.",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130309.jpg",
     "killedBy": [
       "G"
     ],
@@ -6342,7 +5979,6 @@
     "race": "B",
     "name": "Dainell Simmons",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130307.jpg",
     "killedBy": [
       "T",
       "C",
@@ -6358,7 +5994,6 @@
     "race": "W",
     "name": "Roger Ramundo",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130306.jpg",
     "killedBy": [
       "G"
     ],
@@ -6385,7 +6020,6 @@
     "race": "W",
     "name": "John J. Wheelihan",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130304.jpg",
     "killedBy": [
       "G"
     ],
@@ -6399,7 +6033,6 @@
     "race": "L",
     "name": "Thomas Martinez Jr.",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130303.jpg",
     "killedBy": [
       "T",
       "R"
@@ -6414,7 +6047,6 @@
     "race": "A",
     "name": "Southaly Ketmany",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130302.jpg",
     "killedBy": [
       "G"
     ],
@@ -6441,7 +6073,6 @@
     "race": "B",
     "name": "Tevin Hammond",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130299.jpg",
     "killedBy": [
       "G"
     ],
@@ -6455,7 +6086,6 @@
     "race": "B",
     "name": "Deomain Hayman",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130298.jpg",
     "killedBy": [
       "T",
       "R"
@@ -6470,7 +6100,6 @@
     "race": "W",
     "name": "Garrett Nelson Brooks",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130297.jpg",
     "killedBy": [
       "G"
     ],
@@ -6484,7 +6113,6 @@
     "race": "W",
     "name": "James Robert Rogers Jr.",
     "age": 49,
-    "photo": "http://www.killedbypolice.net/victims/130296.jpg",
     "killedBy": [
       "G"
     ],
@@ -6511,7 +6139,6 @@
     "race": "B",
     "name": "Corey Thomas",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130294.jpg",
     "killedBy": [
       "G"
     ],
@@ -6525,7 +6152,6 @@
     "race": "B",
     "name": "Leigh Weeden",
     "age": 47,
-    "photo": "http://www.killedbypolice.net/victims/130293.jpg",
     "killedBy": [
       "G"
     ],
@@ -6539,7 +6165,6 @@
     "race": "L",
     "name": "Robert McAfee Jr.",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130292.jpg",
     "killedBy": [
       "G"
     ],
@@ -6553,7 +6178,6 @@
     "race": "W",
     "name": "Roy D. Barnhart",
     "age": 62,
-    "photo": "http://www.killedbypolice.net/victims/130291.jpg",
     "killedBy": [
       "R"
     ],
@@ -6567,7 +6191,6 @@
     "race": "W",
     "name": "Scott Murphy",
     "age": 46,
-    "photo": "http://www.killedbypolice.net/victims/130290.jpg",
     "killedBy": [
       "G"
     ],
@@ -6581,7 +6204,6 @@
     "race": "B",
     "name": "Tyrone West",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130289.jpg",
     "killedBy": [
       "C",
       "R"
@@ -6609,7 +6231,6 @@
     "race": "B",
     "name": "Kendall Walker",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130286.jpg",
     "killedBy": [
       "G"
     ],
@@ -6623,7 +6244,6 @@
     "race": "B",
     "name": "Andrew Thomas",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130285.jpg",
     "killedBy": [
       "G"
     ],
@@ -6637,7 +6257,6 @@
     "race": "L",
     "name": "Gerardo Pinedo",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130284.jpg",
     "killedBy": [
       "G"
     ],
@@ -6651,7 +6270,6 @@
     "race": "W",
     "name": "John Sebastian Snider",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130283.jpg",
     "killedBy": [
       "G"
     ],
@@ -6678,7 +6296,6 @@
     "race": "W",
     "name": "Marilyn Peterson",
     "age": 68,
-    "photo": "http://www.killedbypolice.net/victims/130281.jpg",
     "killedBy": [
       "G"
     ],
@@ -6692,7 +6309,6 @@
     "race": "B",
     "name": "Carlos Crompton",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130280.jpg",
     "killedBy": [
       "G"
     ],
@@ -6706,7 +6322,6 @@
     "race": "W",
     "name": "Zackary Dean Moffitt",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130279.jpg",
     "killedBy": [
       "R"
     ],
@@ -6720,7 +6335,6 @@
     "race": "B",
     "name": "Daryll Blair",
     "age": 19,
-    "photo": "http://www.killedbypolice.net/victims/130278.jpg",
     "killedBy": [
       "G"
     ],
@@ -6734,7 +6348,6 @@
     "race": "B",
     "name": "Deon Williams",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130277.jpg",
     "killedBy": [
       "G"
     ],
@@ -6748,7 +6361,6 @@
     "race": "L",
     "name": "Harold J. Bastin",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130276.jpg",
     "killedBy": [
       "G"
     ],
@@ -6762,7 +6374,6 @@
     "race": "W",
     "name": "Dustin Cole",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130275.jpg",
     "killedBy": [
       "G"
     ],
@@ -6776,7 +6387,6 @@
     "race": "W",
     "name": "Derek Hobson",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130333.jpg",
     "killedBy": [
       "G"
     ],
@@ -6790,7 +6400,6 @@
     "race": "W",
     "name": "Daniel Houfek",
     "age": 42,
-    "photo": "http://www.killedbypolice.net/victims/130274.jpg",
     "killedBy": [
       "G"
     ],
@@ -6804,7 +6413,6 @@
     "race": "W",
     "name": "Jared Woosypity",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130273.jpg",
     "killedBy": [
       "G"
     ],
@@ -6818,7 +6426,6 @@
     "race": "W",
     "name": "Kenny Stafford",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130272.jpg",
     "killedBy": [
       "G"
     ],
@@ -6832,7 +6439,6 @@
     "race": "B",
     "name": "Brian Simms Jr.",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130271.jpg",
     "killedBy": [
       "G"
     ],
@@ -6846,7 +6452,6 @@
     "race": "B",
     "name": "Antonio Johnson",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130270.jpg",
     "killedBy": [
       "T",
       "R"
@@ -6861,7 +6466,6 @@
     "race": "L",
     "name": "Luis Alberto Flores",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130269.jpg",
     "killedBy": [
       "G"
     ],
@@ -6875,7 +6479,6 @@
     "race": "B",
     "name": "Shawn Payne",
     "age": 36,
-    "photo": "http://www.killedbypolice.net/victims/130268.jpg",
     "killedBy": [
       "G"
     ],
@@ -6886,8 +6489,6 @@
     "date": "July 10, 2013",
     "state": "TX",
     "gender": "M",
-    "name": "",
-    "age": null,
     "killedBy": [
       "G"
     ],
@@ -6901,7 +6502,6 @@
     "race": "W",
     "name": "Gerald Altomare Jr.",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130266.jpg",
     "killedBy": [
       "T"
     ],
@@ -6915,7 +6515,6 @@
     "race": "W",
     "name": "Larry J. Trent",
     "age": 54,
-    "photo": "http://www.killedbypolice.net/victims/130287.jpg",
     "killedBy": [
       "T",
       "R"
@@ -6942,7 +6541,6 @@
     "race": "L",
     "name": "Rafael Salas Adame",
     "age": 42,
-    "photo": "http://www.killedbypolice.net/victims/130263.jpg",
     "killedBy": [
       "G"
     ],
@@ -6956,7 +6554,6 @@
     "race": "W",
     "name": "Dante Cespedes",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130262.jpg",
     "killedBy": [
       "G"
     ],
@@ -6970,7 +6567,6 @@
     "race": "W",
     "name": "Lance Clay",
     "age": 50,
-    "photo": "http://www.killedbypolice.net/victims/130261.jpg",
     "killedBy": [
       "G"
     ],
@@ -6984,7 +6580,6 @@
     "race": "W",
     "name": "Robert Brooks",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130260.jpg",
     "killedBy": [
       "G"
     ],
@@ -7010,7 +6605,6 @@
     "race": "L",
     "name": "Hernan Jaramillo",
     "age": 51,
-    "photo": "http://www.killedbypolice.net/victims/130258.jpg",
     "killedBy": [
       "R"
     ],
@@ -7024,7 +6618,6 @@
     "race": "B",
     "name": "Glenn Llewellyn Briggs",
     "age": 51,
-    "photo": "http://www.killedbypolice.net/victims/130257.jpg",
     "killedBy": [
       "G"
     ],
@@ -7038,7 +6631,6 @@
     "race": "W",
     "name": "Gary Wissinger",
     "age": 55,
-    "photo": "http://www.killedbypolice.net/victims/130256.jpg",
     "killedBy": [
       "G"
     ],
@@ -7052,7 +6644,6 @@
     "race": "W",
     "name": "Adam Ignatz Bosch",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130255.jpg",
     "killedBy": [
       "G"
     ],
@@ -7066,7 +6657,6 @@
     "race": "L",
     "name": "German Dominguez Mata",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130254.jpg",
     "killedBy": [
       "G"
     ],
@@ -7080,7 +6670,6 @@
     "race": "L",
     "name": "Felix Coss",
     "age": 61,
-    "photo": "http://www.killedbypolice.net/victims/130253.jpg",
     "killedBy": [
       "V"
     ],
@@ -7094,7 +6683,6 @@
     "race": "B",
     "name": "Carlos D. Runyon",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130252.jpg",
     "killedBy": [
       "G"
     ],
@@ -7145,7 +6733,6 @@
     "race": "B",
     "name": "Vincent Wood",
     "age": 66,
-    "photo": "http://www.killedbypolice.net/victims/130248.jpg",
     "killedBy": [
       "G"
     ],
@@ -7159,7 +6746,6 @@
     "race": "W",
     "name": "Lemuel Rufus Furr III",
     "age": 59,
-    "photo": "http://www.killedbypolice.net/victims/130247.jpg",
     "killedBy": [
       "G"
     ],
@@ -7173,7 +6759,6 @@
     "race": "W",
     "name": "James Wyman McGlothlin",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130246.jpg",
     "killedBy": [
       "G"
     ],
@@ -7187,7 +6772,6 @@
     "race": "W",
     "name": "Dean Randolph Jess",
     "age": 42,
-    "photo": "http://www.killedbypolice.net/victims/130245.jpg",
     "killedBy": [
       "G"
     ],
@@ -7201,7 +6785,6 @@
     "race": "W",
     "name": "Joel Reuter",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130244.jpg",
     "killedBy": [
       "G"
     ],
@@ -7240,7 +6823,6 @@
     "race": "B",
     "name": "Ernest Foster",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130241.jpg",
     "killedBy": [
       "G"
     ],
@@ -7254,7 +6836,6 @@
     "race": "B",
     "name": "Christian Green",
     "age": 17,
-    "photo": "http://www.killedbypolice.net/victims/130240.jpg",
     "killedBy": [
       "G"
     ],
@@ -7268,7 +6849,6 @@
     "race": "W",
     "name": "Daniel A. Fitton",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130239.jpg",
     "killedBy": [
       "G"
     ],
@@ -7282,7 +6862,6 @@
     "race": "W",
     "name": "Daniel Pinney",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130238.jpg",
     "killedBy": [
       "G"
     ],
@@ -7321,7 +6900,6 @@
     "race": "W",
     "name": "Brandon Rennie Turner",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130235.jpg",
     "killedBy": [
       "G"
     ],
@@ -7335,7 +6913,6 @@
     "race": "W",
     "name": "Corey Navarette",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130234.jpg",
     "killedBy": [
       "G"
     ],
@@ -7349,7 +6926,6 @@
     "race": "B",
     "name": "Lawrence Edward Graham III",
     "age": 20,
-    "photo": "http://www.killedbypolice.net/victims/130233.jpg",
     "killedBy": [
       "G"
     ],
@@ -7363,7 +6939,6 @@
     "race": "L",
     "name": "Jose Estrada",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130232.jpg",
     "killedBy": [
       "G"
     ],
@@ -7389,7 +6964,6 @@
     "race": "W",
     "name": "Andrew Stigliano",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130230.jpg",
     "killedBy": [
       "G"
     ],
@@ -7439,7 +7013,6 @@
     "race": "B",
     "name": "George Harvey",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130226.jpg",
     "killedBy": [
       "T"
     ],
@@ -7479,7 +7052,6 @@
     "race": "W",
     "name": "Merlin Factor",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130223.jpg",
     "killedBy": [
       "G"
     ],
@@ -7493,7 +7065,6 @@
     "race": "A",
     "name": "Christopher Fredette",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130222.jpg",
     "killedBy": [
       "G"
     ],
@@ -7507,7 +7078,6 @@
     "race": "B",
     "name": "Lonnie Taylor",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130221.jpg",
     "killedBy": [
       "G"
     ],
@@ -7533,7 +7103,6 @@
     "race": "W",
     "name": "Shawn Knight",
     "age": 50,
-    "photo": "http://www.killedbypolice.net/victims/130219.jpg",
     "killedBy": [
       "G"
     ],
@@ -7547,7 +7116,6 @@
     "race": "L",
     "name": "Jonas Alonzo",
     "age": 16,
-    "photo": "http://www.killedbypolice.net/victims/130218.jpg",
     "killedBy": [
       "G"
     ],
@@ -7561,7 +7129,6 @@
     "race": "W",
     "name": "Michael Goodman",
     "age": 64,
-    "photo": "http://www.killedbypolice.net/victims/130217.jpg",
     "killedBy": [
       "G"
     ],
@@ -7575,7 +7142,6 @@
     "race": "W",
     "name": "Ricky Don McCommas",
     "age": 48,
-    "photo": "http://www.killedbypolice.net/victims/130216.jpg",
     "killedBy": [
       "G"
     ],
@@ -7588,7 +7154,6 @@
     "gender": "M",
     "name": "Miquell David Deppa",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130215.jpg",
     "killedBy": [
       "G"
     ],
@@ -7602,7 +7167,6 @@
     "race": "W",
     "name": "Eugene Mallory",
     "age": 80,
-    "photo": "http://www.killedbypolice.net/victims/130214.jpg",
     "killedBy": [
       "G"
     ],
@@ -7616,7 +7180,6 @@
     "race": "B",
     "name": "Deangelo Lopez",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130213.jpg",
     "killedBy": [
       "G"
     ],
@@ -7654,7 +7217,6 @@
     "race": "W",
     "name": "William McCullough",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130211.jpg",
     "killedBy": [
       "G"
     ],
@@ -7668,7 +7230,6 @@
     "race": "W",
     "name": "Richard Dale Kohler",
     "age": 66,
-    "photo": "http://www.killedbypolice.net/victims/130210.jpg",
     "killedBy": [
       "G"
     ],
@@ -7694,7 +7255,6 @@
     "race": "B",
     "name": "James Edward Adell",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130208.jpg",
     "killedBy": [
       "R"
     ],
@@ -7720,7 +7280,6 @@
     "race": "B",
     "name": "Omar K. Arrington-Bey",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130206.jpg",
     "killedBy": [
       "R"
     ],
@@ -7747,7 +7306,6 @@
     "race": "W",
     "name": "Mark Alan Chernin",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130204.jpg",
     "killedBy": [
       "G"
     ],
@@ -7761,7 +7319,6 @@
     "race": "L",
     "name": "Noah Burford Silva",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130203.jpg",
     "killedBy": [
       "G"
     ],
@@ -7775,7 +7332,6 @@
     "race": "W",
     "name": "Sarah Harrington",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130202.jpg",
     "killedBy": [
       "G"
     ],
@@ -7789,7 +7345,6 @@
     "race": "L",
     "name": "Cesar Mendoza",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130201.jpg",
     "killedBy": [
       "G"
     ],
@@ -7803,7 +7358,6 @@
     "race": "L",
     "name": "Jessica Gonzalez",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130200.jpg",
     "killedBy": [
       "G"
     ],
@@ -7829,7 +7383,6 @@
     "race": "B",
     "name": "Cacedric White",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130198.jpg",
     "killedBy": [
       "G"
     ],
@@ -7843,7 +7396,6 @@
     "race": "W",
     "name": "Kory Dane Wilson",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/13KoryWilson.jpg",
     "killedBy": [
       "O"
     ],
@@ -7857,7 +7409,6 @@
     "race": "B",
     "name": "Ernest Zaus Jaquine Barnett",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/2323.jpg",
     "killedBy": [
       "G"
     ],
@@ -7871,7 +7422,6 @@
     "race": "W",
     "name": "Jordan Camp",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130197.jpg",
     "killedBy": [
       "G"
     ],
@@ -7885,7 +7435,6 @@
     "race": "W",
     "name": "Charles Wickline",
     "age": 46,
-    "photo": "http://www.killedbypolice.net/victims/130196.jpg",
     "killedBy": [
       "G"
     ],
@@ -7898,7 +7447,6 @@
     "gender": "M",
     "name": "Jourdan Akili Wagner",
     "age": 20,
-    "photo": "http://www.killedbypolice.net/victims/130195.jpg",
     "killedBy": [
       "G"
     ],
@@ -7912,7 +7460,6 @@
     "race": "L",
     "name": "Uriel Juarez",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130194.jpg",
     "killedBy": [
       "G"
     ],
@@ -7926,7 +7473,6 @@
     "race": "W",
     "name": "Howard Curtis Martin",
     "age": 62,
-    "photo": "http://www.killedbypolice.net/victims/130193.jpg",
     "killedBy": [
       "G"
     ],
@@ -7952,7 +7498,6 @@
     "race": "B",
     "name": "Kenneth Dewayne Cooper",
     "age": 46,
-    "photo": "http://www.killedbypolice.net/victims/130191.jpg",
     "killedBy": [
       "G"
     ],
@@ -7966,7 +7511,6 @@
     "race": "B",
     "name": "Donnell L. Carter",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130190.jpg",
     "killedBy": [
       "G"
     ],
@@ -7994,7 +7538,6 @@
     "race": "B",
     "name": "Shon Demetrious McClain",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130188.jpg",
     "killedBy": [
       "R"
     ],
@@ -8020,7 +7563,6 @@
     "race": "B",
     "name": "Jaquaz Walker",
     "age": 17,
-    "photo": "http://www.killedbypolice.net/victims/130186.jpg",
     "killedBy": [
       "G"
     ],
@@ -8046,7 +7588,6 @@
     "race": "W",
     "name": "Robert Bergeson",
     "age": 59,
-    "photo": "http://www.killedbypolice.net/victims/130184.jpg",
     "killedBy": [
       "G"
     ],
@@ -8072,7 +7613,6 @@
     "race": "W",
     "name": "Nicolas Andrew Smith",
     "age": 17,
-    "photo": "http://www.killedbypolice.net/victims/130182.jpg",
     "killedBy": [
       "R"
     ],
@@ -8086,7 +7626,6 @@
     "race": "L",
     "name": "Wilfredo Ramos",
     "age": 25,
-    "photo": "http://www.killedbypolice.net/victims/130181.jpg",
     "killedBy": [
       "R"
     ],
@@ -8100,7 +7639,6 @@
     "race": "B",
     "name": "Marlon Jermaine Dixon",
     "age": 41,
-    "photo": "http://www.killedbypolice.net/victims/130180.jpg",
     "killedBy": [
       "R"
     ],
@@ -8114,7 +7652,6 @@
     "race": "B",
     "name": "Eliakim Tipan Shabazz",
     "age": 48,
-    "photo": "http://www.killedbypolice.net/victims/130179.jpg",
     "killedBy": [
       "G"
     ],
@@ -8128,7 +7665,6 @@
     "race": "B",
     "name": "Sammie Lamont Wallace",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130178.jpg",
     "killedBy": [
       "G"
     ],
@@ -8142,7 +7678,6 @@
     "race": "W",
     "name": "John Stevens",
     "age": 41,
-    "photo": "http://www.killedbypolice.net/victims/130177.jpg",
     "killedBy": [
       "G"
     ],
@@ -8168,7 +7703,6 @@
     "race": "W",
     "name": "Kevin L. Ellis",
     "age": 45,
-    "photo": "http://www.killedbypolice.net/victims/130175.jpg",
     "killedBy": [
       "T",
       "R"
@@ -8183,7 +7717,6 @@
     "race": "B",
     "name": "Cedric Howard",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130174.jpg",
     "killedBy": [
       "G"
     ],
@@ -8197,7 +7730,6 @@
     "race": "W",
     "name": "Eric Dunphy",
     "age": 54,
-    "photo": "http://www.killedbypolice.net/victims/130173.jpg",
     "killedBy": [
       "G"
     ],
@@ -8211,7 +7743,6 @@
     "race": "B",
     "name": "Joe White III",
     "age": 48,
-    "photo": "http://www.killedbypolice.net/victims/130172.jpg",
     "killedBy": [
       "G"
     ],
@@ -8225,7 +7756,6 @@
     "race": "B",
     "name": "Michael Westley",
     "age": 15,
-    "photo": "http://www.killedbypolice.net/victims/130171.jpg",
     "killedBy": [
       "G"
     ],
@@ -8239,7 +7769,6 @@
     "race": "L",
     "name": "Jonathan Demarco",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130170.jpg",
     "killedBy": [
       "G"
     ],
@@ -8253,7 +7782,6 @@
     "race": "B",
     "name": "Recardio Shormon Clark",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130169.jpg",
     "killedBy": [
       "G"
     ],
@@ -8316,7 +7844,6 @@
     "race": "B",
     "name": "Quincy Williams",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130164.jpg",
     "killedBy": [
       "G"
     ],
@@ -8330,7 +7857,6 @@
     "race": "W",
     "name": "Lewis Pollard",
     "age": 61,
-    "photo": "http://www.killedbypolice.net/victims/130163.jpg",
     "killedBy": [
       "G"
     ],
@@ -8344,7 +7870,6 @@
     "race": "W",
     "name": "Wilfredo Justiniano Jr.",
     "age": 41,
-    "photo": "http://www.killedbypolice.net/victims/130162.jpg",
     "killedBy": [
       "G"
     ],
@@ -8358,7 +7883,6 @@
     "race": "W",
     "name": "Jeremiah Krubert",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130161.jpg",
     "killedBy": [
       "G"
     ],
@@ -8372,7 +7896,6 @@
     "race": "W",
     "name": "Simon Buckles",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130160.jpg",
     "killedBy": [
       "G"
     ],
@@ -8398,7 +7921,6 @@
     "race": "W",
     "name": "Alexander L. Mandarino",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130158.jpg",
     "killedBy": [
       "G"
     ],
@@ -8424,7 +7946,6 @@
     "race": "B",
     "name": "Darrius Jamal Lowery-Baptiste",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130156.jpg",
     "killedBy": [
       "G"
     ],
@@ -8438,7 +7959,6 @@
     "race": "W",
     "name": "Zachary Rodney Paul Premo",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130155.jpg",
     "killedBy": [
       "G"
     ],
@@ -8452,7 +7972,6 @@
     "race": "B",
     "name": "Peter Lee Williams",
     "age": 51,
-    "photo": "http://www.killedbypolice.net/victims/2263.jpg",
     "killedBy": [
       "C"
     ],
@@ -8466,7 +7985,6 @@
     "race": "W",
     "name": "Gregory Stephen Bayne",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130153.jpg",
     "killedBy": [
       "G"
     ],
@@ -8480,7 +7998,6 @@
     "race": "L",
     "name": "Noel Mendoza",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130152.jpg",
     "killedBy": [
       "T",
       "R"
@@ -8495,7 +8012,6 @@
     "race": "W",
     "name": "Mark A. Koves",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130151.jpg",
     "killedBy": [
       "T"
     ],
@@ -8509,7 +8025,6 @@
     "race": "W",
     "name": "Cameron Arrigoni",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130150.jpg",
     "killedBy": [
       "G"
     ],
@@ -8523,7 +8038,6 @@
     "race": "W",
     "name": "D'Wayne Burke",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130149.jpg",
     "killedBy": [
       "G"
     ],
@@ -8537,7 +8051,6 @@
     "race": "B",
     "name": "Joseph Paige",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130148.jpg",
     "killedBy": [
       "G"
     ],
@@ -8551,7 +8064,6 @@
     "race": "W",
     "name": "Thomas Robert Andreason",
     "age": 48,
-    "photo": "http://www.killedbypolice.net/victims/130154.jpg",
     "killedBy": [
       "R"
     ],
@@ -8564,7 +8076,6 @@
     "gender": "M",
     "name": "Garrett Chruma",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130147.jpg",
     "killedBy": [
       "G"
     ],
@@ -8590,7 +8101,6 @@
     "race": "W",
     "name": "Curtis Fipps",
     "age": 48,
-    "photo": "http://www.killedbypolice.net/victims/130145.jpg",
     "killedBy": [
       "G"
     ],
@@ -8604,7 +8114,6 @@
     "race": "W",
     "name": "Joseph Harvey, Jr.",
     "age": 36,
-    "photo": "http://www.killedbypolice.net/victims/130144.jpg",
     "killedBy": [
       "G"
     ],
@@ -8630,7 +8139,6 @@
     "race": "B",
     "name": "Micah Key",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130142.jpg",
     "killedBy": [
       "T"
     ],
@@ -8668,7 +8176,6 @@
     "race": "W",
     "name": "Gregory Rosson, Jr.",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130139.jpg",
     "killedBy": [
       "G"
     ],
@@ -8707,7 +8214,6 @@
     "race": "W",
     "name": "Daniel Blake Compton",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130136.jpg",
     "killedBy": [
       "G"
     ],
@@ -8721,7 +8227,6 @@
     "race": "W",
     "name": "William Berger",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130135.jpg",
     "killedBy": [
       "T",
       "R"
@@ -8736,7 +8241,6 @@
     "race": "B",
     "name": "Seon Rose",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130134.jpg",
     "killedBy": [
       "G"
     ],
@@ -8750,7 +8254,6 @@
     "race": "W",
     "name": "Andrew Lambeth",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130133.jpg",
     "killedBy": [
       "G"
     ],
@@ -8764,7 +8267,6 @@
     "race": "O",
     "name": "John Samir Zawahri",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130132.jpg",
     "killedBy": [
       "G"
     ],
@@ -8775,7 +8277,7 @@
     "date": "June 7, 2013",
     "state": "NV",
     "gender": "M",
-    "name": "Layne Michael Campbell",
+    "name": " Layne Michael Campbell",
     "age": 40,
     "killedBy": [
       "G"
@@ -8790,7 +8292,6 @@
     "race": "B",
     "name": "Richard Haston",
     "age": 40,
-    "photo": "http://www.killedbypolice.net/victims/130130.jpg",
     "killedBy": [
       "G"
     ],
@@ -8804,7 +8305,6 @@
     "race": "W",
     "name": "John Settlemyer",
     "age": 67,
-    "photo": "http://www.killedbypolice.net/victims/130129.jpg",
     "killedBy": [
       "G"
     ],
@@ -8818,7 +8318,6 @@
     "race": "B",
     "name": "Lana Morris",
     "age": 46,
-    "photo": "http://www.killedbypolice.net/victims/130128.jpg",
     "killedBy": [
       "G"
     ],
@@ -8832,7 +8331,6 @@
     "race": "W",
     "name": "William Daniel Mayes",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130127.jpg",
     "killedBy": [
       "G"
     ],
@@ -8896,7 +8394,6 @@
     "race": "W",
     "name": "Stephen Dinnan",
     "age": 35,
-    "photo": "http://www.killedbypolice.net/victims/130124.jpg",
     "killedBy": [
       "R"
     ],
@@ -8910,7 +8407,6 @@
     "race": "B",
     "name": "Demetrice D. Presnall",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130123.jpg",
     "killedBy": [
       "G"
     ],
@@ -8961,7 +8457,6 @@
     "race": "B",
     "name": "Fred Bradford",
     "age": 51,
-    "photo": "http://www.killedbypolice.net/victims/130119.jpg",
     "killedBy": [
       "V"
     ],
@@ -8975,7 +8470,6 @@
     "race": "W",
     "name": "David Hartman",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130118.jpg",
     "killedBy": [
       "G"
     ],
@@ -8989,7 +8483,6 @@
     "race": "W",
     "name": "Tyler W. Wilkins",
     "age": 16,
-    "photo": "http://www.killedbypolice.net/victims/130117.jpg",
     "killedBy": [
       "G"
     ],
@@ -9003,7 +8496,6 @@
     "race": "W",
     "name": "Louis James Skelly",
     "age": 60,
-    "photo": "http://www.killedbypolice.net/victims/130116.jpg",
     "killedBy": [
       "G"
     ],
@@ -9030,7 +8522,6 @@
     "race": "B",
     "name": "Keoshia L. Hill",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130114.jpg",
     "killedBy": [
       "G"
     ],
@@ -9057,7 +8548,6 @@
     "race": "B",
     "name": "Edward Mwaura",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130112.jpg",
     "killedBy": [
       "G"
     ],
@@ -9096,7 +8586,6 @@
     "race": "L",
     "name": "Ross Baptista",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130109.jpg",
     "killedBy": [
       "G"
     ],
@@ -9122,7 +8611,6 @@
     "race": "W",
     "name": "Giacomo James Cargnoni",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130107.jpg",
     "killedBy": [
       "G"
     ],
@@ -9136,7 +8624,6 @@
     "race": "W",
     "name": "Roy Jacobs, Jr.",
     "age": 48,
-    "photo": "http://www.killedbypolice.net/victims/130106.jpg",
     "killedBy": [
       "G"
     ],
@@ -9163,7 +8650,6 @@
     "race": "W",
     "name": "Michael Neal Peters",
     "age": 54,
-    "photo": "http://www.killedbypolice.net/victims/130104.jpg",
     "killedBy": [
       "G"
     ],
@@ -9177,7 +8663,6 @@
     "race": "L",
     "name": "Joseph Moreno",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130103.jpg",
     "killedBy": [
       "T"
     ],
@@ -9191,7 +8676,6 @@
     "race": "L",
     "name": "Gerardo Diego Ayala",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130102.jpg",
     "killedBy": [
       "G"
     ],
@@ -9218,7 +8702,6 @@
     "race": "B",
     "name": "Kyree Johnson",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130100.jpg",
     "killedBy": [
       "G"
     ],
@@ -9232,7 +8715,6 @@
     "race": "W",
     "name": "Douglas Francis Harper",
     "age": 62,
-    "photo": "http://www.killedbypolice.net/victims/130099.jpg",
     "killedBy": [
       "G"
     ],
@@ -9246,7 +8728,6 @@
     "race": "B",
     "name": "Bernard Peters, Jr.",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130098.jpg",
     "killedBy": [
       "G"
     ],
@@ -9272,7 +8753,6 @@
     "race": "A",
     "name": "Mhai Scott",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130096.jpg",
     "killedBy": [
       "G"
     ],
@@ -9286,7 +8766,6 @@
     "race": "B",
     "name": "Nathaniel McRae",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130095.jpg",
     "killedBy": [
       "G"
     ],
@@ -9300,7 +8779,6 @@
     "race": "W",
     "name": "Angela Smith",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130094.jpg",
     "killedBy": [
       "G"
     ],
@@ -9314,7 +8792,6 @@
     "race": "W",
     "name": "Jon Joseph Marr",
     "age": 42,
-    "photo": "http://www.killedbypolice.net/victims/13Marr.jpg",
     "killedBy": [
       "G"
     ],
@@ -9328,7 +8805,6 @@
     "race": "W",
     "name": "Anthony Galla",
     "age": 31,
-    "photo": "http://www.killedbypolice.net/victims/130093.jpg",
     "killedBy": [
       "G"
     ],
@@ -9342,7 +8818,6 @@
     "race": "W",
     "name": "Jerry Waller",
     "age": 72,
-    "photo": "http://www.killedbypolice.net/victims/130092.jpg",
     "killedBy": [
       "G"
     ],
@@ -9353,8 +8828,6 @@
     "date": "May 27, 2013",
     "state": "CA",
     "gender": "M",
-    "name": null,
-    "age": "20s or 30s",
     "killedBy": [
       "R"
     ],
@@ -9380,7 +8853,6 @@
     "race": "W",
     "name": "Esteban J. Smith",
     "age": 23,
-    "photo": "http://www.killedbypolice.net/victims/130089.jpg",
     "killedBy": [
       "G"
     ],
@@ -9394,7 +8866,6 @@
     "race": "B",
     "name": "William Dupree",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130088.jpg",
     "killedBy": [
       "G"
     ],
@@ -9407,8 +8878,7 @@
     "gender": "M",
     "race": "W",
     "name": "Sam Kruze",
-    "age": "40s",
-    "photo": "http://www.killedbypolice.net/victims/130087.jpg",
+    "age": " 40s\t   \t",
     "killedBy": [
       "G"
     ],
@@ -9422,7 +8892,6 @@
     "race": "W",
     "name": "Thomas Hilger",
     "age": 49,
-    "photo": "http://www.killedbypolice.net/victims/130086.jpg",
     "killedBy": [
       "G"
     ],
@@ -9436,7 +8905,6 @@
     "race": "B",
     "name": "Ajani Mitchell",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130085.jpg",
     "killedBy": [
       "G"
     ],
@@ -9450,7 +8918,6 @@
     "race": "B",
     "name": "Gary Hatcher",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130084.jpg",
     "killedBy": [
       "G"
     ],
@@ -9464,7 +8931,6 @@
     "race": "W",
     "name": "Richard Moore",
     "age": 49,
-    "photo": "http://www.killedbypolice.net/victims/130083.jpg",
     "killedBy": [
       "V"
     ],
@@ -9478,7 +8944,6 @@
     "race": "W",
     "name": "Jeff Foote",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130082.jpg",
     "killedBy": [
       "G"
     ],
@@ -9504,7 +8969,6 @@
     "race": "W",
     "name": "John Toretti",
     "age": 42,
-    "photo": "http://www.killedbypolice.net/victims/130080.jpg",
     "killedBy": [
       "R"
     ],
@@ -9530,7 +8994,6 @@
     "race": "W",
     "name": "John Valluzzo",
     "age": 75,
-    "photo": "http://www.killedbypolice.net/victims/130078.jpg",
     "killedBy": [
       "G"
     ],
@@ -9544,7 +9007,6 @@
     "race": "B",
     "name": "Leonard Benjamin Thomas",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130077.jpg",
     "killedBy": [
       "G"
     ],
@@ -9570,7 +9032,6 @@
     "race": "B",
     "name": "Rayshawn Marquis Brown",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130075.jpg",
     "killedBy": [
       "G"
     ],
@@ -9584,7 +9045,6 @@
     "race": "B",
     "name": "Thomas Bean",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130074.jpg",
     "killedBy": [
       "G"
     ],
@@ -9608,8 +9068,6 @@
     "date": "May 22, 2013",
     "state": "PA",
     "gender": "M",
-    "name": "Separate victim unidentified",
-    "age": null,
     "killedBy": [
       "G"
     ],
@@ -9623,7 +9081,6 @@
     "race": "B",
     "name": "Julian Dawkins",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130071.jpg",
     "killedBy": [
       "G"
     ],
@@ -9637,7 +9094,6 @@
     "race": "W",
     "name": "Ibragim Todashev",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130070.jpg",
     "killedBy": [
       "G"
     ],
@@ -9676,7 +9132,6 @@
     "race": "L",
     "name": "Guillermo Pablo Cedano",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130067.jpg",
     "killedBy": [
       "R",
       "T"
@@ -9691,7 +9146,6 @@
     "race": "L",
     "name": "Jose SiFuentes",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130065.jpg",
     "killedBy": [
       "G"
     ],
@@ -9705,7 +9159,6 @@
     "race": "B",
     "name": "Anthony Michael Bland",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/130064.jpg",
     "killedBy": [
       "G"
     ],
@@ -9719,7 +9172,6 @@
     "race": "B",
     "name": "Terrence Dawson",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130063.jpg",
     "killedBy": [
       "G"
     ],
@@ -9733,7 +9185,6 @@
     "race": "B",
     "name": "Joshua Johnson",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130062.jpg",
     "killedBy": [
       "G"
     ],
@@ -9747,7 +9198,6 @@
     "race": "B",
     "name": "Terry Laffitte",
     "age": 50,
-    "photo": "http://www.killedbypolice.net/victims/130061.jpg",
     "killedBy": [
       "G"
     ],
@@ -9761,7 +9211,6 @@
     "race": "W",
     "name": "Naim \"Keith\" Labaki",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130060.jpg",
     "killedBy": [
       "G"
     ],
@@ -9800,7 +9249,6 @@
     "race": "B",
     "name": "Dalton Smith",
     "age": 30,
-    "photo": "http://www.killedbypolice.net/victims/130057.jpg",
     "killedBy": [
       "G"
     ],
@@ -9814,7 +9262,6 @@
     "race": "W",
     "name": "Andrea Rebello",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130056.jpg",
     "killedBy": [
       "G"
     ],
@@ -9828,7 +9275,6 @@
     "race": "W",
     "name": "Caleb Wade Blackburn",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130055.jpg",
     "killedBy": [
       "G"
     ],
@@ -9842,7 +9288,6 @@
     "race": "W",
     "name": "Brent E. Brozek",
     "age": 43,
-    "photo": "http://www.killedbypolice.net/victims/130054.jpg",
     "killedBy": [
       "G"
     ],
@@ -9856,7 +9301,6 @@
     "race": "W",
     "name": "Misty Michelle Mullins",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130053.jpg",
     "killedBy": [
       "G"
     ],
@@ -9869,7 +9313,6 @@
     "gender": "F",
     "name": "Jenny Lynn Borelis",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130052.jpg",
     "killedBy": [
       "T"
     ],
@@ -9909,7 +9352,6 @@
     "race": "B",
     "name": "Jermaine Darden",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130049.jpg",
     "killedBy": [
       "R",
       "T"
@@ -9924,7 +9366,6 @@
     "race": "W",
     "name": "James Genda",
     "age": 64,
-    "photo": "http://www.killedbypolice.net/victims/130048.jpg",
     "killedBy": [
       "G"
     ],
@@ -9951,7 +9392,6 @@
     "race": "W",
     "name": "Justin Cairns",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130046.jpg",
     "killedBy": [
       "G"
     ],
@@ -9978,7 +9418,6 @@
     "race": "L",
     "name": "David \"Dizzy\" Martinez",
     "age": 47,
-    "photo": "http://www.killedbypolice.net/victims/130044.jpg",
     "killedBy": [
       "G"
     ],
@@ -9992,7 +9431,6 @@
     "race": "B",
     "name": "Louis M. Squires",
     "age": 44,
-    "photo": "http://www.killedbypolice.net/victims/130043.jpg",
     "killedBy": [
       "G"
     ],
@@ -10006,7 +9444,6 @@
     "race": "B",
     "name": "Emanuel Gatewood",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130042.jpg",
     "killedBy": [
       "G"
     ],
@@ -10020,7 +9457,6 @@
     "race": "B",
     "name": "Kourtney Hahn",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130041.jpg",
     "killedBy": [
       "G"
     ],
@@ -10034,7 +9470,6 @@
     "race": "W",
     "name": "Christopher Dubois",
     "age": 39,
-    "photo": "http://www.killedbypolice.net/victims/130040.jpg",
     "killedBy": [
       "G"
     ],
@@ -10048,7 +9483,6 @@
     "race": "W",
     "name": "Bobby Earl Driggers",
     "age": 50,
-    "photo": "http://www.killedbypolice.net/victims/130039.jpg",
     "killedBy": [
       "G"
     ],
@@ -10062,7 +9496,6 @@
     "race": "W",
     "name": "Rodney Pike",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130038.jpg",
     "killedBy": [
       "G"
     ],
@@ -10076,7 +9509,6 @@
     "race": "B",
     "name": "Gerald Tyrone Murphy",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130037.jpg",
     "killedBy": [
       "G"
     ],
@@ -10090,7 +9522,6 @@
     "race": "L",
     "name": "Rigoberto Arceo",
     "age": 34,
-    "photo": "http://www.killedbypolice.net/victims/130036.jpg",
     "killedBy": [
       "G"
     ],
@@ -10117,7 +9548,6 @@
     "race": "W",
     "name": "Nathan Brokaw",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130034.jpg",
     "killedBy": [
       "G"
     ],
@@ -10131,7 +9561,6 @@
     "race": "W",
     "name": "Charles Burns",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130033.jpg",
     "killedBy": [
       "G"
     ],
@@ -10169,7 +9598,6 @@
     "race": "L",
     "name": "Ivan Romero",
     "age": 24,
-    "photo": "http://www.killedbypolice.net/victims/130029.jpg",
     "killedBy": [
       "V"
     ],
@@ -10183,7 +9611,6 @@
     "race": "B",
     "name": "Terrance Franklin",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130028.jpg",
     "killedBy": [
       "G"
     ],
@@ -10233,7 +9660,6 @@
     "race": "W",
     "name": "Candace Jackson",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130024.jpg",
     "killedBy": [
       "G"
     ],
@@ -10247,7 +9673,6 @@
     "race": "B",
     "name": "Marlon Brown",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130023.jpg",
     "killedBy": [
       "V"
     ],
@@ -10274,7 +9699,6 @@
     "race": "B",
     "name": "Kendra Diggs",
     "age": 37,
-    "photo": "http://www.killedbypolice.net/victims/130021.jpg",
     "killedBy": [
       "G"
     ],
@@ -10288,7 +9712,6 @@
     "race": "W",
     "name": "Thomas Edward Pulst",
     "age": 29,
-    "photo": "http://www.killedbypolice.net/victims/130020.jpg",
     "killedBy": [
       "G"
     ],
@@ -10302,7 +9725,6 @@
     "race": "B",
     "name": "Jacqueline Reynolds",
     "age": 54,
-    "photo": "http://www.killedbypolice.net/victims/130019.jpg",
     "killedBy": [
       "V"
     ],
@@ -10316,7 +9738,6 @@
     "race": "I",
     "name": "David Silva",
     "age": 33,
-    "photo": "http://www.killedbypolice.net/victims/130018.jpg",
     "killedBy": [
       "R"
     ],
@@ -10341,8 +9762,6 @@
     "state": "FL",
     "gender": "M",
     "race": "L",
-    "name": "Carlos D Oquendo\t",
-    "photo": "http://www.killedbypolice.net/victims/130017.jpg",
     "killedBy": [
       "G"
     ],
@@ -10368,7 +9787,6 @@
     "race": "W",
     "name": "Jayson Leon Carmickle",
     "age": 28,
-    "photo": "http://www.killedbypolice.net/victims/130015.jpg",
     "killedBy": [
       "R",
       "T"
@@ -10395,7 +9813,6 @@
     "race": "B",
     "name": "Tywon Jones",
     "age": 16,
-    "photo": "http://www.killedbypolice.net/victims/130013.jpg",
     "killedBy": [
       "G"
     ],
@@ -10409,7 +9826,6 @@
     "race": "B",
     "name": "Linwood R. Lambert Jr.",
     "age": 46,
-    "photo": "http://www.killedbypolice.net/victims/130012.jpg",
     "killedBy": [
       "R",
       "T"
@@ -10449,7 +9865,6 @@
     "race": "B",
     "name": "Marquis Spencer",
     "age": 21,
-    "photo": "http://www.killedbypolice.net/victims/130009.jpg",
     "killedBy": [
       "G"
     ],
@@ -10463,7 +9878,6 @@
     "race": "A",
     "name": "Josiah M. Fischer",
     "age": 27,
-    "photo": "http://www.killedbypolice.net/victims/130008.jpg",
     "killedBy": [
       "G"
     ],
@@ -10477,7 +9891,6 @@
     "race": "A",
     "name": "Saan Pao Saeturn",
     "age": 32,
-    "photo": "http://www.killedbypolice.net/victims/130007.jpg",
     "killedBy": [
       "G"
     ],
@@ -10513,9 +9926,6 @@
     "state": "TX",
     "gender": "M",
     "race": "B",
-    "name": "Carnell Marcus Moore",
-    "age": null,
-    "photo": "http://www.killedbypolice.net/victims/130004.jpg",
     "killedBy": [
       "G"
     ],
@@ -10529,7 +9939,6 @@
     "race": "B",
     "name": "Clifton Armstrong",
     "age": 38,
-    "photo": "http://www.killedbypolice.net/victims/130003.jpg",
     "killedBy": [
       "R"
     ],
@@ -10542,7 +9951,6 @@
     "gender": "M",
     "name": "Ryan J. Koontz",
     "age": 22,
-    "photo": "http://www.killedbypolice.net/victims/130002.jpg",
     "killedBy": [
       "G"
     ],
@@ -10569,7 +9977,6 @@
     "race": "B",
     "name": "Jordan West-Morson",
     "age": 26,
-    "photo": "http://www.killedbypolice.net/victims/2261.jpg",
     "killedBy": [
       "G"
     ],
