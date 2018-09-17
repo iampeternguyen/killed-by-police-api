@@ -2,41 +2,122 @@ const parseData = require('./parseData');
 const expect = require('expect');
 const fs = require('fs');
 const sampleData = fs.readFileSync(__dirname + '/sampleData.txt', 'utf8');
-describe('parseData', () => {
-	describe('Separating into rows', () => {
-		const testResults = parseData.separateDataToRows(sampleData);
-		it('should separate raw html data into arrays with 8 items', () => {
-			let err = '';
-			testResults.forEach((element, i) => {
-				if (element.length !== 8) {
-					err += `element at index ${i} has ${element.length} items`;
+var peopleArray = [];
+describe('Cleanin up data', () => {
+	beforeEach(done => {
+		fs.readFile(__dirname + '/source_data/2014.html', 'utf8', function(err, data) {
+			peopleArray = parseData.getPeopleArray(data);
+			done();
+		});
+	});
+	describe('Person', () => {
+		var error = '';
+
+		it('should be defined', () => {
+			peopleArray.forEach((person, i) => {
+				if (!person) {
+					error += `person at index ${i} is undefined \n`;
 				}
 			});
+			if (error !== '') {
+				throw new Error(error);
+			}
+		});
+	});
 
-			if (err == '') {
-				return true;
-			} else {
-				throw new Error(err);
+	describe('Name', () => {
+		var error = '';
+
+		it('it should be a string or null', () => {
+			peopleArray.forEach((person, i) => {
+				if (person) {
+					if (person.name === undefined) {
+						error += `person.name at index ${i} is undefined \n`;
+					} else if (person.name === null) {
+					} else if (typeof person.name !== typeof 'string') {
+						error += `person.name at index ${i} is not a string  ${typeof person.name}${person.name}\n`;
+					}
+				}
+			});
+			if (error !== '') {
+				throw new Error(error);
 			}
 		});
 
-		it('should have 3 data entries in sample', () => {
-			expect(testResults).toHaveLength(3);
-		});
-
-		it('should only have one entry per row', () => {
-			let err = '';
-			testResults.forEach((element, i) => {
-				let size = /<br>/gi.exec(element[1]);
-				if (size) {
-					err += `element at index ${i} has ${size.length + 1} entries`;
+		it('it should contain no numbers', () => {
+			peopleArray.forEach((person, i) => {
+				if (person && person.name) {
+					if (person.name.match(/\d/gi)) {
+						error += `person.name at index ${i} has numbers ${person.name} \n`;
+					}
 				}
 			});
+			if (error !== '') {
+				throw new Error(error);
+			}
+		});
+	});
 
-			if (err == '') {
-				return true;
-			} else {
-				throw new Error(err);
+	describe('Age', () => {
+		var error = '';
+
+		// it('it should be a string or null', () => {
+		// 	peopleArray.forEach((person, i) => {
+		// 		if (person) {
+		// 			if (typeof person.name === undefined) {
+		// 				error += `person.name at index ${i} is undefined \n`;
+		// 			} else if (person.name === null) {
+		// 			} else if (typeof person.name !== typeof 'string') {
+		// 				error += `person.name at index ${i} is not a string \n`;
+		// 			}
+		// 		}
+		// 	});
+		// 	if (error !== '') {
+		// 		throw new Error(error);
+		// 	}
+		// });
+
+		it('it should be a number', () => {
+			peopleArray.forEach((person, i) => {
+				if (person && person.age) {
+					if (typeof person.age !== typeof 1) {
+						error += `person.age at index ${i} is not a number ${person.age} \n`;
+					}
+				}
+			});
+			if (error !== '') {
+				throw new Error(error);
+			}
+		});
+	});
+
+	describe('Date', () => {
+		var error = '';
+
+		it('it should be a valid date', () => {
+			peopleArray.forEach((person, i) => {
+				if (person && person.date) {
+					if (
+						person.date.match(/feb/i) ||
+						person.date.match(/jan/i) ||
+						person.date.match(/mar/i) ||
+						person.date.match(/apr/i) ||
+						person.date.match(/may/i) ||
+						person.date.match(/jun/i) ||
+						person.date.match(/jul/i) ||
+						person.date.match(/aug/i) ||
+						person.date.match(/sep/i) ||
+						person.date.match(/oct/i) ||
+						person.date.match(/nov/i) ||
+						person.date.match(/dec/i)
+					) {
+					} else {
+						error += `person.date at index ${i} is not a valid date ${person.date} \n`;
+					}
+				}
+			});
+			if (error !== '') {
+				throw new Error(error);
 			}
 		});
 	});
