@@ -61,22 +61,6 @@ describe('Cleanin up data', () => {
 	describe('Age', () => {
 		var error = '';
 
-		// it('it should be a string or null', () => {
-		// 	peopleArray.forEach((person, i) => {
-		// 		if (person) {
-		// 			if (typeof person.name === undefined) {
-		// 				error += `person.name at index ${i} is undefined \n`;
-		// 			} else if (person.name === null) {
-		// 			} else if (typeof person.name !== typeof 'string') {
-		// 				error += `person.name at index ${i} is not a string \n`;
-		// 			}
-		// 		}
-		// 	});
-		// 	if (error !== '') {
-		// 		throw new Error(error);
-		// 	}
-		// });
-
 		it('it should be a number', () => {
 			peopleArray.forEach((person, i) => {
 				if (person && person.age) {
