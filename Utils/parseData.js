@@ -55,15 +55,20 @@ const organizeData = data => {
 	data.forEach(e => {
 		if (getNumberOfEntriesInRow(e) === 1) {
 			let person = getKBPDataObject(e);
-			people.push(person);
+			if (person) {
+				people.push(person);
+			}
 		} else {
 			var peopleData = separateData(e, getNumberOfEntriesInRow(e));
 			peopleData.forEach((element, i) => {
 				let person = getKBPDataObject(element);
-				people.push(person);
+				if (person) {
+					people.push(person);
+				}
 			});
 		}
 	});
+
 	return people;
 };
 
@@ -78,6 +83,9 @@ const processedObject = e => {
 	// get date information
 	let regex = /(?:<center>)*(?:\(.*\))*\s*([A-Z].*\d+)/g;
 	let match = regex.exec(e[1]);
+	if (!match) {
+		return null;
+	}
 	let date = match[1];
 
 	if (!validateDate(date)) {
@@ -85,7 +93,7 @@ const processedObject = e => {
 	}
 
 	// organize state
-	let state = e[2];
+	let state = e[2].match(/\w+/)[1];
 
 	// organize race and gender
 	let gender;
@@ -127,7 +135,9 @@ const processedObject = e => {
 	match = e[5].replace(/<(?:.|\n)*?>/gm, '');
 	// some people killed by more than one reason
 	for (let i = 0; i < match.length; i++) {
-		killedBy.push(match[i]);
+		if (match[i].match(/\w/i)) {
+			killedBy.push(match[i]);
+		}
 	}
 
 	// get kbpLink
@@ -220,7 +230,20 @@ const getNameAgePhotoObject = e => {
 			age = Number(age);
 		} else {
 			// special case where age is followed by aka
-			age = age.split('a')[0];
+			// special case where age is followed by preg
+			// special case where age is followed by space and ""
+			if (
+				/\da/i.exec(age) ||
+				/\dp/i.exec(age) ||
+				/\d\"/.exec(age) ||
+				/\d\s\"/.exec(age) ||
+				/\db/i.exec(age) ||
+				/\df/i.exec(age) ||
+				/\d\s\(/i.exec(age)
+			) {
+				age = age.match(/\d+/)[0];
+			}
+
 			if (Number(age)) {
 				age = Number(age);
 			}

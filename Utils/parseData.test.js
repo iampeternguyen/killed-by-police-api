@@ -1,11 +1,10 @@
 const parseData = require('./parseData');
 const expect = require('expect');
 const fs = require('fs');
-const sampleData = fs.readFileSync(__dirname + '/sampleData.txt', 'utf8');
 var peopleArray = [];
 describe('Cleanin up data', () => {
 	beforeEach(done => {
-		fs.readFile(__dirname + '/source_data/2013.html', 'utf8', function(err, data) {
+		fs.readFile(__dirname + '/source_data/2018.html', 'utf8', function(err, data) {
 			peopleArray = parseData.getPeopleArray(data);
 			done();
 		});
@@ -134,10 +133,10 @@ describe('Cleanin up data', () => {
 	describe('Gender', () => {
 		var error = '';
 
-		it('it should be one of the following (M)ale or (F)emale', () => {
+		it('it should be one of the following (M)ale, (F)emale, (T)ransgender', () => {
 			peopleArray.forEach((person, i) => {
 				if (person && person.gender) {
-					if (person.gender !== 'M' && person.gender !== 'F') {
+					if (person.gender !== 'M' && person.gender !== 'F' && person.gender !== 'T') {
 						error += `person.gender at index ${i} is not valid ${person.gender} \n`;
 					}
 				}
@@ -156,7 +155,7 @@ describe('Cleanin up data', () => {
 				if (person && person.killedBy) {
 					person.killedBy.forEach((e, j) => {
 						if (e !== 'G' && e !== 'T' && e !== 'V' && e !== 'C' && e !== 'R' && e !== 'O') {
-							error += `person.killedby at index ${(i, j)} is not valid ${person.killedby} \n`;
+							error += `person.killedby at index ${i}: ${j} is not valid ${person.name} ${e} \n`;
 						}
 					});
 				}
