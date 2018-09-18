@@ -103,6 +103,13 @@ const processedObject = e => {
 		}
 	}
 
+	if (race) {
+		race = race.trim();
+	}
+	if (gender) {
+		gender = gender.trim();
+	}
+
 	// parse name age cell some cells also has photo link
 	let name;
 	let age;
@@ -114,19 +121,6 @@ const processedObject = e => {
 	age = nameAgePhotoObject.age;
 	photo = nameAgePhotoObject.photo;
 
-	// clean up age
-	if (age) {
-		if (Number(age)) {
-			age = Number(age);
-		} else {
-			// special case where age is followed by aka
-			age = age.split('a')[0];
-			if (Number(age)) {
-				age = Number(age);
-			}
-		}
-	}
-
 	// organize kill by data
 	let killedBy = [];
 
@@ -137,15 +131,25 @@ const processedObject = e => {
 	}
 
 	// get kbpLink
+
 	match = e[6].split('"'); ///<a.*? href=\"(.*?)\".*?<\/a>/g test this later
 	let kbpLink = match[1];
-
+	if (e[6].includes('href')) {
+		kbpLink = /href="(.*?)"/.exec(e[6])[1];
+	}
 	// get news link
 	match = e[7].split('"');
-	let newsLink = match[1];
 
-	if (name === 'new') {
+	let newsLink = [];
+	if (e[7].includes('href')) {
+		match = e[7].match(/href="(.*?)"/g);
+		if (match) {
+			match.forEach(element => {
+				newsLink.push(/href="(.*?)"/g.exec(element)[1]);
+			});
+		}
 	}
+
 	// save data
 	return {
 		date,
@@ -211,6 +215,16 @@ const getNameAgePhotoObject = e => {
 	}
 	if (age) {
 		age = age.trim();
+		// clean up age
+		if (Number(age)) {
+			age = Number(age);
+		} else {
+			// special case where age is followed by aka
+			age = age.split('a')[0];
+			if (Number(age)) {
+				age = Number(age);
+			}
+		}
 	}
 
 	if (e.includes('href')) {

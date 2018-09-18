@@ -105,4 +105,134 @@ describe('Cleanin up data', () => {
 			}
 		});
 	});
+
+	describe('Race', () => {
+		var error = '';
+
+		it('it should be one of the following (W)hite,(B)lack,(A)sian,(L),(P)acific (I)slander, (I)ndian?', () => {
+			peopleArray.forEach((person, i) => {
+				if (person && person.race) {
+					if (
+						person.race !== 'W' &&
+						person.race !== 'B' &&
+						person.race !== 'L' &&
+						person.race !== 'A' &&
+						person.race !== 'I' &&
+						person.race !== 'O' &&
+						person.race !== 'PI'
+					) {
+						error += `person.race at index ${i} is not valid ${person.race} \n`;
+					}
+				}
+			});
+			if (error !== '') {
+				throw new Error(error);
+			}
+		});
+	});
+
+	describe('Gender', () => {
+		var error = '';
+
+		it('it should be one of the following (M)ale or (F)emale', () => {
+			peopleArray.forEach((person, i) => {
+				if (person && person.gender) {
+					if (person.gender !== 'M' && person.gender !== 'F') {
+						error += `person.gender at index ${i} is not valid ${person.gender} \n`;
+					}
+				}
+			});
+			if (error !== '') {
+				throw new Error(error);
+			}
+		});
+	});
+
+	describe('KilledBy', () => {
+		var error = '';
+
+		it('it should be one of the following (G)un, (T)aser, (V)ehicle, (C)hemical, (R)estraints, (O)ther', () => {
+			peopleArray.forEach((person, i) => {
+				if (person && person.killedBy) {
+					person.killedBy.forEach((e, j) => {
+						if (e !== 'G' && e !== 'T' && e !== 'V' && e !== 'C' && e !== 'R' && e !== 'O') {
+							error += `person.killedby at index ${(i, j)} is not valid ${person.killedby} \n`;
+						}
+					});
+				}
+			});
+			if (error !== '') {
+				throw new Error(error);
+			}
+		});
+	});
+
+	describe('Photo', () => {
+		var error = '';
+
+		it('it should be a link', () => {
+			peopleArray.forEach((person, i) => {
+				if (person && person.photo) {
+					if (!person.photo.includes('http')) {
+						error += `person.photo at index ${i} is not valid ${person.photo} \n`;
+					}
+				}
+			});
+			if (error !== '') {
+				throw new Error(error);
+			}
+		});
+	});
+
+	describe('KBPLink', () => {
+		var error = '';
+
+		it('it should be a link', () => {
+			peopleArray.forEach((person, i) => {
+				if (person && person.kbpLink) {
+					if (!person.kbpLink.includes('http')) {
+						error += `person.photo at index ${i} is not valid ${person.kbpLink} \n`;
+					}
+				}
+			});
+			if (error !== '') {
+				throw new Error(error);
+			}
+		});
+	});
+	describe('NewsLink', () => {
+		var error = '';
+
+		it('it should be a link', () => {
+			peopleArray.forEach((person, i) => {
+				if (person && person.newsLink) {
+					person.newsLink.forEach((element, j) => {
+						if (!element.includes('http')) {
+							error += `person.newsLink at index ${(i, j)} is not valid ${element} \n`;
+						}
+					});
+				}
+			});
+			if (error !== '') {
+				throw new Error(error);
+			}
+		});
+	});
+
+	describe('State', () => {
+		var error = '';
+
+		it('it should be a 2 digit string', () => {
+			peopleArray.forEach((person, i) => {
+				if (person && person.state) {
+					if (person.state.length !== 2) {
+						error += `person.state at index ${i} is not valid ${person.state} \n`;
+					}
+				}
+			});
+			if (error !== '') {
+				throw new Error(error);
+			}
+		});
+	});
 });
