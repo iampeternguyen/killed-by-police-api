@@ -4,9 +4,14 @@
   "description": "an api for data pulled from killedbypolice.net",
   "main": "server.js",
   "scripts": {
+    "start": "node server/server.js",
     "test": "mocha **/*.test.js",
     "test-watch": "nodemon --exec \"npm test\""
   },
+  "engines": {
+    "node": "8.11.4"
+  }
+  ,
   "keywords": [
     "killedbypolice"
   ],
