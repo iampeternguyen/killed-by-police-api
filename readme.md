@@ -12,4 +12,4 @@ https://killed-by-police-api.herokuapp.com/2013 will return data from 2013
 
 Data currently exists from 2013-2018.
 
-The original creator of killedbypolice.net has unfortunately stopped collecting data. If anyone is interested in helping to continue their work, please let me know.
+The original creator of killedbypolice.net has unfortunately stopped collecting data. Although recently I found that the Washington Post has it's own data here. https://www.washingtonpost.com/graphics/2018/national/police-shootings-2018/?noredirect=on&utm_term=.a950c59ed39d
