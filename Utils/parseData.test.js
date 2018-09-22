@@ -4,7 +4,7 @@ const fs = require('fs');
 var peopleArray = [];
 describe('Cleanin up data', () => {
 	beforeEach(done => {
-		fs.readFile(__dirname + '/source_data/2018.html', 'utf8', function(err, data) {
+		fs.readFile(__dirname + '/source_data/2014.html', 'utf8', function(err, data) {
 			peopleArray = parseData.getPeopleArray(data);
 			done();
 		});

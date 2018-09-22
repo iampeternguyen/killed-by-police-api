@@ -92,6 +92,8 @@ const processedObject = e => {
 		return false;
 	}
 
+	date = new Date(date);
+
 	// organize state
 	let state = e[2].match(/\w+/)[1];
 

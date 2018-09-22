@@ -4,8 +4,9 @@
   "description": "an api for data pulled from killedbypolice.net",
   "main": "server.js",
   "scripts": {
-		"test": "mocha **/*.test.js",
-		"test-watch": "nodemon --exec \"npm test\""  },
+    "test": "mocha **/*.test.js",
+    "test-watch": "nodemon --exec \"npm test\""
+  },
   "keywords": [
     "killedbypolice"
   ],
@@ -14,5 +15,12 @@
   "devDependencies": {
     "expect": "^23.6.0",
     "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "image-downloader": "^3.4.1",
+    "moment-timezone": "^0.5.21",
+    "mongoose": "^5.2.17"
   }
 }
