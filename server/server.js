@@ -12,7 +12,10 @@ app.get('/', (req, res) => {
 		This project scraped data from that site to make it easily retrievable for other uses. <br>
 		To use send /GET request to /data for all data or /data/year to retreive data for a specific year.<br>
 		Data exists from 2013-2018.<br>
-		Please note that request all data from /data may take a long time to load.`
+		Please note that request all data from /data may take a long time to load. <br><br>
+		Source for the project can be found here: https://github.com/iampeternguyen/killed-by-police-api
+
+		`
 	);
 });
 
