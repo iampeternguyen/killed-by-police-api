@@ -8,7 +8,7 @@ https://killed-by-police-api.herokuapp.com/
 
 https://killed-by-police-api.herokuapp.com/data will return all the data (warning can be very slow)
 
-https://killed-by-police-api.herokuapp.com/2013 will return data from 2013
+https://killed-by-police-api.herokuapp.com/data/2013 will return data from 2013
 
 Data currently exists from 2013-2018.
 
